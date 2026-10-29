@@ -4,7 +4,7 @@
 ## 1. Summary
 * **Distress model** (UCI Polish bankruptcy data, 43,405 firm-years): a monotone LightGBM on 28 size-free ratios that can be rebuilt from Indian filings, with train-median imputation.
   On the untouched holdout, **PR-AUC is 0.369** against a no-skill rate of 0.069. The holdout has 410 defaults in 5,910 firm-years (6.94%, about 1:13.4). ROC-AUC is 0.823, and recall at a 5% alert rate is 0.341.
-* **Indian backtest.** 15 documented non-financial defaulters, 44 sector peers and a frozen universe of 893 listed companies. Alerts are hard-capped at min(40, 5%) per quarter.
+* **Indian backtest.** 15 documented non-financial defaulters, 44 sector peers and a frozen universe of 893 listed companies (930 eligible borrowers at 2026-09-30). Alerts are hard-capped at min(40, 5%) per quarter.
   - Headline composite recall is **1/15 [0.00-0.32] at 4 quarters** and **0/15 [0.00-0.22] at 8 quarters** before the event.
   - **IL&FS was not caught.** IL&FS Transportation and IL&FS Engineering ranked 409/739 (cap 36), 136/739 (cap 36) at 4Q.
 * **Honest bottom line.** Annual book ratios, available about 6 months after year end and run through a model trained on Polish SMEs, do not separate large Indian group defaults from the many small distressed listed companies that fill a 5% alert budget. Most of the warning for these cases came from governance and market events (rating downgrades, auditor exits, results delays, pledges). These are researched for the cases (Section 5.3) and built into the escalation override. They are not counted in recall, because they were not collected for non-defaulters.
@@ -90,21 +90,21 @@ Reliance Capital (an NBFC) is a separate financial track and is not counted in r
 ### 5.2 Rank of every case (composite score; rank / N eligible; n/e = before universe coverage)
 | slug | event_date | q_4Q | fy_used_4Q | rank@4Q | flag 4Q | rank@8Q | flag 8Q | first flag (Q before event) | rank@4Q large-cap book |
 |---|---|---|---|---|---|---|---|---|---|
-| ROLTA | 2016-05-16T00:00:00.000 | 2015-03-31T00:00:00.000 | Mar 2014 | n/e | False | no data |  |  | n/e |
-| RCOM | 2017-05-30T00:00:00.000 | 2016-03-31T00:00:00.000 | Mar 2015 | 360/685 (cap 34) | False | no data |  |  | 222/436 |
-| MBECL | 2018-03-13T00:00:00.000 | 2016-12-31T00:00:00.000 | Mar 2016 | 52/716 (cap 35) | False | 122/685 | False |  | 27/457 |
-| VIDEOIND | 2018-06-06T00:00:00.000 | 2017-03-31T00:00:00.000 | Dec 2015 | 69/716 (cap 35) | False | 379/685 | False | 4.000 | 38/457 |
-| PATANJALI | 2017-08-31T00:00:00.000 | 2016-06-30T00:00:00.000 | Mar 2015 | 343/684 (cap 34) | False | n/e | False |  | 210/435 |
-| IL&FSTRANS | 2018-10-01T00:00:00.000 | 2017-09-30T00:00:00.000 | Mar 2017 | 409/739 (cap 36) | False | 186/716 | False |  | 253/475 |
-| IL&FSENGG | 2018-10-05T00:00:00.000 | 2017-09-30T00:00:00.000 | Mar 2017 | 136/739 (cap 36) | False | 207/716 | False |  | 72/475 |
-| JETAIRWAYS | 2019-01-02T00:00:00.000 | 2017-12-31T00:00:00.000 | Mar 2017 | 103/739 (cap 36) | False | 114/716 | False |  | 51/475 |
-| SINTEX | 2019-06-11T00:00:00.000 | 2018-03-31T00:00:00.000 | Mar 2017 | 223/738 (cap 36) | False | 616/716 | False |  | 126/474 |
-| COX&KINGS | 2019-06-26T00:00:00.000 | 2018-03-31T00:00:00.000 | Mar 2017 | 200/738 (cap 36) | False | 317/716 | False |  | 109/474 |
-| COFFEEDAY | 2019-09-10T00:00:00.000 | 2018-06-30T00:00:00.000 | Mar 2017 | 512/737 (cap 36) | False | 400/715 | False |  | 326/473 |
-| RELINFRA | 2020-01-23T00:00:00.000 | 2018-12-31T00:00:00.000 | Mar 2018 | 96/764 (cap 38) | False | 116/739 | False |  | 42/496 |
-| SIMPLEXINF | 2020-12-10T00:00:00.000 | 2019-09-30T00:00:00.000 | Mar 2019 | 103/794 (cap 39) | False | 96/766 | False |  | 49/522 |
-| FEL | 2021-01-04T00:00:00.000 | 2019-12-31T00:00:00.000 | Mar 2019 | 462/794 (cap 39) | False | 482/764 | False |  | 278/522 |
-| FRETAIL | 2021-12-31T00:00:00.000 | 2020-12-31T00:00:00.000 | Mar 2020 | 2/834 (cap 40) | True | 70/794 | False | 6.000 | 2/558 |
+| ROLTA | 2016-05-16 | 2015-03-31 | Mar 2014 | n/e | False | no data |  |  | n/e |
+| RCOM | 2017-05-30 | 2016-03-31 | Mar 2015 | 360/685 (cap 34) | False | no data |  |  | 222/436 |
+| MBECL | 2018-03-13 | 2016-12-31 | Mar 2016 | 52/716 (cap 35) | False | 122/685 | False |  | 27/457 |
+| VIDEOIND | 2018-06-06 | 2017-03-31 | Dec 2015 | 69/716 (cap 35) | False | 379/685 | False | 4.000 | 38/457 |
+| PATANJALI | 2017-08-31 | 2016-06-30 | Mar 2015 | 343/684 (cap 34) | False | n/e | False |  | 210/435 |
+| IL&FSTRANS | 2018-10-01 | 2017-09-30 | Mar 2017 | 409/739 (cap 36) | False | 186/716 | False |  | 253/475 |
+| IL&FSENGG | 2018-10-05 | 2017-09-30 | Mar 2017 | 136/739 (cap 36) | False | 207/716 | False |  | 72/475 |
+| JETAIRWAYS | 2019-01-02 | 2017-12-31 | Mar 2017 | 103/739 (cap 36) | False | 114/716 | False |  | 51/475 |
+| SINTEX | 2019-06-11 | 2018-03-31 | Mar 2017 | 223/738 (cap 36) | False | 616/716 | False |  | 126/474 |
+| COX&KINGS | 2019-06-26 | 2018-03-31 | Mar 2017 | 200/738 (cap 36) | False | 317/716 | False |  | 109/474 |
+| COFFEEDAY | 2019-09-10 | 2018-06-30 | Mar 2017 | 512/737 (cap 36) | False | 400/715 | False |  | 326/473 |
+| RELINFRA | 2020-01-23 | 2018-12-31 | Mar 2018 | 96/764 (cap 38) | False | 116/739 | False |  | 42/496 |
+| SIMPLEXINF | 2020-12-10 | 2019-09-30 | Mar 2019 | 103/794 (cap 39) | False | 96/766 | False |  | 49/522 |
+| FEL | 2021-01-04 | 2019-12-31 | Mar 2019 | 462/794 (cap 39) | False | 482/764 | False |  | 278/522 |
+| FRETAIL | 2021-12-31 | 2020-12-31 | Mar 2020 | 2/834 (cap 40) | True | 70/794 | False | 6.000 | 2/558 |
 
 
 ![cases](figures/case_trajectories.png)
