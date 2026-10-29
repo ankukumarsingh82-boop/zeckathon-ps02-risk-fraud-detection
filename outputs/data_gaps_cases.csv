@@ -1,0 +1,17 @@
+slug,n_fy_on_screener,first_fy,n_fy_public_before_event,has_3y_pre_event,missing_feature_share_pre_event,missing_fields_pre_event,F_score_missing_years,M_score_missing_years
+ROLTA,13,Mar 20149m,3,True,0.512,Attr1;Attr10;Attr13;Attr16;Attr18;Attr2;Attr21;Attr22;Attr23;Attr26;Attr27;Attr3;Attr30;Attr38;Attr4;Attr40;Attr44;Attr46;Attr50;Attr51;Attr59;Attr61;Attr62;Attr63;Attr64;Attr7;Attr8;Attr9,2,3
+RCOM,12,Mar 2015,2,False,0.018,Attr21,1,1
+MBECL,12,Mar 2015,3,True,0.012,Attr21,1,1
+VIDEOIND,16,Sep 2006,14,True,0.436,Attr1;Attr10;Attr13;Attr16;Attr18;Attr2;Attr21;Attr22;Attr23;Attr26;Attr27;Attr3;Attr30;Attr38;Attr4;Attr40;Attr44;Attr46;Attr50;Attr51;Attr59;Attr61;Attr62;Attr63;Attr64;Attr7;Attr8;Attr9,11,11
+PATANJALI,12,Mar 2010,7,True,0.005,Attr21,2,1
+IL&FSTRANS,12,Mar 2007,12,True,0.003,Attr21,2,1
+IL&FSENGG,12,Mar 2015,4,True,0.009,Attr21,1,1
+JETAIRWAYS,11,Mar 2008,11,True,0.003,Attr21,2,1
+SINTEX,12,Mar 2011,8,True,0.004,Attr21,1,1
+COX&KINGS,12,Mar 2009,10,True,0.004,Attr21,2,1
+COFFEEDAY,12,Mar 2015,4,True,0.009,Attr21,1,1
+RELINFRA,12,Mar 2015,5,True,0.007,Attr21,1,1
+SIMPLEXINF,12,Mar 2015,6,True,0.006,Attr21,1,1
+FEL,13,Jun 2010,11,True,0.143,Attr1;Attr10;Attr13;Attr16;Attr18;Attr2;Attr21;Attr22;Attr23;Attr26;Attr27;Attr3;Attr30;Attr38;Attr4;Attr40;Attr44;Attr46;Attr50;Attr51;Attr59;Attr61;Attr62;Attr63;Attr64;Attr7;Attr8;Attr9,4,4
+FRETAIL,10,Dec 2012,10,True,0.254,Attr1;Attr10;Attr13;Attr16;Attr18;Attr2;Attr21;Attr22;Attr23;Attr26;Attr27;Attr3;Attr30;Attr38;Attr4;Attr40;Attr44;Attr46;Attr50;Attr51;Attr59;Attr61;Attr62;Attr63;Attr64;Attr7;Attr8;Attr9,4,4
+RELCAPITAL,12,Mar 2013,6,True,0.006,Attr21,1,1

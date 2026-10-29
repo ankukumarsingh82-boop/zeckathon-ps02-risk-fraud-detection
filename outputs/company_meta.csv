@@ -1,0 +1,959 @@
+slug,name,variant,page_url,financial_format,n_years,error,skip_reason,sector
+3MINDIA,3M India Ltd,consolidated,https://www.screener.in/company/3MINDIA/consolidated/,False,7,,,Diversified > Diversified > Diversified
+63MOONS,63 Moons Technologies Ltd,consolidated,https://www.screener.in/company/63MOONS/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+AARTIIND,Aarti Industries Ltd,consolidated,https://www.screener.in/company/AARTIIND/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+AARTIPHARM,Aarti Pharmalabs Ltd,standalone,https://www.screener.in/company/AARTIPHARM/,False,7,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+ABB,ABB India Ltd,standalone,https://www.screener.in/company/ABB/,False,14,,,Industrials > Capital Goods > Electrical Equipment
+ABBOTINDIA,Abbott India Ltd,standalone,https://www.screener.in/company/ABBOTINDIA/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+ABDL,Allied Blenders & Distillers Ltd,standalone,https://www.screener.in/company/ABDL/,False,9,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Beverages
+ABFRL,Aditya Birla Fashion & Retail Ltd,standalone,https://www.screener.in/company/ABFRL/,False,12,,,Consumer Discretionary > Consumer Services > Retailing
+ABLBL,Aditya Birla Lifestyle Brands Ltd,consolidated,https://www.screener.in/company/ABLBL/consolidated/,False,2,,,Consumer Discretionary > Consumer Services > Retailing
+ABREL,Aditya Birla Real Estate Ltd,consolidated,https://www.screener.in/company/ABREL/consolidated/,False,10,,,Consumer Discretionary > Realty > Realty
+ACC,ACC Ltd,consolidated,https://www.screener.in/company/ACC/consolidated/,False,14,,,Commodities > Construction Materials > Cement & Cement Products
+ACCELYA,Accelya Solutions India Ltd,consolidated,https://www.screener.in/company/ACCELYA/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+ACE,Action Construction Equipment Ltd,consolidated,https://www.screener.in/company/ACE/consolidated/,False,12,,,"Industrials > Capital Goods > Agricultural, Commercial & Construction Vehicles"
+ACI,Archean Chemical Industries Ltd,standalone,https://www.screener.in/company/ACI/,False,9,,,Commodities > Chemicals > Chemicals & Petrochemicals
+ACMESOLAR,ACME Solar Holdings Ltd,consolidated,https://www.screener.in/company/ACMESOLAR/consolidated/,False,7,,,Utilities > Power > Power
+ACUTAAS,Acutaas Chemicals Ltd,consolidated,https://www.screener.in/company/ACUTAAS/consolidated/,False,10,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+ADANIENSOL,Adani Energy Solutions Ltd,consolidated,https://www.screener.in/company/ADANIENSOL/consolidated/,False,12,,,Utilities > Power > Power
+ADANIENT,Adani Enterprises Ltd,consolidated,https://www.screener.in/company/ADANIENT/consolidated/,False,12,,,Commodities > Metals & Mining > Metals & Minerals Trading
+ADANIGREEN,Adani Green Energy Ltd,consolidated,https://www.screener.in/company/ADANIGREEN/consolidated/,False,12,,,Utilities > Power > Power
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,consolidated,https://www.screener.in/company/ADANIPORTS/consolidated/,False,12,,,Services > Services > Transport Infrastructure
+ADANIPOWER,Adani Power Ltd,consolidated,https://www.screener.in/company/ADANIPOWER/consolidated/,False,12,,,Utilities > Power > Power
+ADFFOODS,ADF Foods Ltd,consolidated,https://www.screener.in/company/ADFFOODS/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Food Products
+ADVANIHOTR,Advani Hotels & Resorts (India) Ltd,consolidated,https://www.screener.in/company/ADVANIHOTR/consolidated/,False,5,,,Consumer Discretionary > Consumer Services > Leisure Services
+ADVENZYMES,Advanced Enzyme Technologies Ltd,consolidated,https://www.screener.in/company/ADVENZYMES/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+AEGISLOG,Aegis Logistics Ltd,consolidated,https://www.screener.in/company/AEGISLOG/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Gas"
+AEGISVOPAK,Aegis Vopak Terminals Ltd,standalone,https://www.screener.in/company/AEGISVOPAK/,False,8,,,"Energy > Oil, Gas & Consumable Fuels > Oil"
+AEQUS,Aequs Ltd,standalone,https://www.screener.in/company/AEQUS/,False,5,,,Industrials > Capital Goods > Aerospace & Defense
+AEROFLEX,Aeroflex Industries Ltd,standalone,https://www.screener.in/company/AEROFLEX/,False,9,,,Industrials > Capital Goods > Industrial Products
+AETHER,Aether Industries Ltd,standalone,https://www.screener.in/company/AETHER/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+AFCONS,Afcons Infrastructure Ltd,standalone,https://www.screener.in/company/AFCONS/,False,12,,,Industrials > Construction > Construction
+AFFLE,Affle 3i Ltd,standalone,https://www.screener.in/company/AFFLE/,False,12,,,Information Technology > Information Technology > IT - Services
+AGI,AGI Greenpac Ltd,consolidated,https://www.screener.in/company/AGI/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+AHLEAST,Asian Hotels (East) Ltd,consolidated,https://www.screener.in/company/AHLEAST/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+AHLUCONT,Ahluwalia Contracts (India) Ltd,consolidated,https://www.screener.in/company/AHLUCONT/consolidated/,False,12,,,Industrials > Construction > Construction
+AIAENG,AIA Engineering Ltd,consolidated,https://www.screener.in/company/AIAENG/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+AJANTPHARM,Ajanta Pharma Ltd,consolidated,https://www.screener.in/company/AJANTPHARM/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+AJMERA,Ajmera Realty & Infra India Ltd,consolidated,https://www.screener.in/company/AJMERA/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+AKUMS,Akums Drugs & Pharmaceuticals Ltd,consolidated,https://www.screener.in/company/AKUMS/consolidated/,False,9,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+ALEMBICLTD,Alembic Ltd,consolidated,https://www.screener.in/company/ALEMBICLTD/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+ALKEM,Alkem Laboratories Ltd,consolidated,https://www.screener.in/company/ALKEM/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+ALKYLAMINE,Alkyl Amines Chemicals Ltd,consolidated,https://www.screener.in/company/ALKYLAMINE/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+ALLCARGO,Allcargo Logistics Ltd,consolidated,https://www.screener.in/company/ALLCARGO/consolidated/,False,12,,,Services > Services > Transport Services
+ALLDIGI,Alldigi Tech Ltd,consolidated,https://www.screener.in/company/ALLDIGI/consolidated/,False,12,,,Services > Services > Commercial Services & Supplies
+ALPA,Alpa Laboratories Ltd,consolidated,https://www.screener.in/company/ALPA/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+AMAGI,Amagi Media Labs Ltd,consolidated,https://www.screener.in/company/AMAGI/consolidated/,False,6,,,Information Technology > Information Technology > IT - Services
+AMBER,Amber Enterprises India Ltd,consolidated,https://www.screener.in/company/AMBER/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+AMBICAAGAR,Ambica Agarbathies Aroma & Industries Ltd,consolidated,https://www.screener.in/company/AMBICAAGAR/consolidated/,False,3,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Household Products
+AMBIKCO,Ambika Cotton Mills Ltd,standalone,https://www.screener.in/company/AMBIKCO/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+AMBUJACEM,Ambuja Cements Ltd,consolidated,https://www.screener.in/company/AMBUJACEM/consolidated/,False,14,,,Commodities > Construction Materials > Cement & Cement Products
+AMJLAND,AMJ Land Holdings Ltd,consolidated,https://www.screener.in/company/AMJLAND/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+ANANTRAJ,Anant Raj Ltd,consolidated,https://www.screener.in/company/ANANTRAJ/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+ANDHRAPAP,Andhra Paper Ltd,standalone,https://www.screener.in/company/ANDHRAPAP/,False,12,,,"Commodities > Forest Materials > Paper, Forest & Jute Products"
+ANTELOPUS,Antelopus Selan Energy Ltd,standalone,https://www.screener.in/company/ANTELOPUS/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Oil"
+ANTHEM,Anthem Biosciences Ltd,standalone,https://www.screener.in/company/ANTHEM/,False,8,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+ANURAS,Anupam Rasayan India Ltd,standalone,https://www.screener.in/company/ANURAS/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+APARINDS,Apar Industries Ltd,consolidated,https://www.screener.in/company/APARINDS/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+APLAPOLLO,APL Apollo Tubes Ltd,consolidated,https://www.screener.in/company/APLAPOLLO/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+APOLLO,Apollo Micro Systems Ltd,standalone,https://www.screener.in/company/APOLLO/,False,12,,,Industrials > Capital Goods > Aerospace & Defense
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd,consolidated,https://www.screener.in/company/APOLLOHOSP/consolidated/,False,12,,,Healthcare > Healthcare > Healthcare Services
+APOLLOTYRE,Apollo Tyres Ltd,consolidated,https://www.screener.in/company/APOLLOTYRE/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+ARE&M,Amara Raja Energy & Mobility Ltd,standalone,https://www.screener.in/company/ARE&M/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+ARVIND,Arvind Ltd,consolidated,https://www.screener.in/company/ARVIND/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+ARVINDFASN,Arvind Fashions Ltd,consolidated,https://www.screener.in/company/ARVINDFASN/consolidated/,False,10,,,Consumer Discretionary > Consumer Services > Retailing
+ASAHIINDIA,Asahi India Glass Ltd,consolidated,https://www.screener.in/company/ASAHIINDIA/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+ASHAPURMIN,Ashapura Minechem Ltd,consolidated,https://www.screener.in/company/ASHAPURMIN/consolidated/,False,12,,,Commodities > Metals & Mining > Minerals & Mining
+ASHOKA,Ashoka Buildcon Ltd,consolidated,https://www.screener.in/company/ASHOKA/consolidated/,False,12,,,Industrials > Construction > Construction
+ASHOKLEY,Ashok Leyland Ltd,consolidated,https://www.screener.in/company/ASHOKLEY/consolidated/,False,12,,,"Industrials > Capital Goods > Agricultural, Commercial & Construction Vehicles"
+ASIANHOTNR,Asian Hotels (North) Ltd,consolidated,https://www.screener.in/company/ASIANHOTNR/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+ASIANPAINT,Asian Paints Ltd,consolidated,https://www.screener.in/company/ASIANPAINT/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+ASIANTILES,Asian Granito India Ltd,consolidated,https://www.screener.in/company/ASIANTILES/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+ASTEC,Astec Lifesciences Ltd,consolidated,https://www.screener.in/company/ASTEC/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+ASTERDM,Aster DM Quality Care Ltd,consolidated,https://www.screener.in/company/ASTERDM/consolidated/,False,12,,,Healthcare > Healthcare > Healthcare Services
+ASTRAL,Astral Ltd,consolidated,https://www.screener.in/company/ASTRAL/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+ASTRAMICRO,Astra Microwave Products Ltd,consolidated,https://www.screener.in/company/ASTRAMICRO/consolidated/,False,12,,,Industrials > Capital Goods > Aerospace & Defense
+ATGL,Adani Total Gas Ltd,consolidated,https://www.screener.in/company/ATGL/consolidated/,False,9,,,"Energy > Oil, Gas & Consumable Fuels > Gas"
+ATHERENERG,Ather Energy Ltd,standalone,https://www.screener.in/company/ATHERENERG/,False,7,,,Consumer Discretionary > Automobile and Auto Components > Automobiles
+ATLANTAA,Atlantaa Ltd,consolidated,https://www.screener.in/company/ATLANTAA/consolidated/,False,12,,,Industrials > Construction > Construction
+ATLANTAELE,Atlanta Electricals Ltd,standalone,https://www.screener.in/company/ATLANTAELE/,False,7,,,Industrials > Capital Goods > Electrical Equipment
+ATLASCYCLE,Atlas Cycles (Haryana) Ltd,consolidated,https://www.screener.in/company/ATLASCYCLE/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+ATUL,Atul Ltd,consolidated,https://www.screener.in/company/ATUL/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+AURIONPRO,Aurionpro Solutions Ltd,consolidated,https://www.screener.in/company/AURIONPRO/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+AUROPHARMA,Aurobindo Pharma Ltd,consolidated,https://www.screener.in/company/AUROPHARMA/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+AUSOMENT,Ausom Enterprise Ltd,consolidated,https://www.screener.in/company/AUSOMENT/consolidated/,False,10,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+AUTOIND,Autoline Industries Ltd,consolidated,https://www.screener.in/company/AUTOIND/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+AVALON,Avalon Technologies Ltd,standalone,https://www.screener.in/company/AVALON/,False,8,,,Industrials > Capital Goods > Electrical Equipment
+AVANTIFEED,Avanti Feeds Ltd,consolidated,https://www.screener.in/company/AVANTIFEED/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Food Products
+AVL,Aditya Vision Ltd,standalone,https://www.screener.in/company/AVL/,False,12,,,Consumer Discretionary > Consumer Services > Retailing
+AWL,AWL Agri Business Ltd,standalone,https://www.screener.in/company/AWL/,False,11,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+AXISCADES,AXISCADES Technologies Ltd,consolidated,https://www.screener.in/company/AXISCADES/consolidated/,False,12,,,Industrials > Capital Goods > Aerospace & Defense
+AZAD,Azad Engineering Ltd,standalone,https://www.screener.in/company/AZAD/,False,7,,,Industrials > Capital Goods > Electrical Equipment
+BAGMANE,Bagmane Prime Office REIT,consolidated,https://www.screener.in/company/BAGMANE/consolidated/,False,4,,,Consumer Discretionary > Realty > Realty
+BAJAJ-AUTO,Bajaj Auto Ltd,consolidated,https://www.screener.in/company/BAJAJ-AUTO/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Automobiles
+BAJAJCON,Bajaj Consumer Care Ltd,consolidated,https://www.screener.in/company/BAJAJCON/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Personal Products
+BAJAJHIND,Bajaj Hindusthan Sugar Ltd,consolidated,https://www.screener.in/company/BAJAJHIND/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+BAJFINANCE,Bajaj Finance Ltd,consolidated,https://www.screener.in/company/BAJFINANCE/consolidated/,True,12,,,Financial Services > Financial Services > Finance
+BALAJITELE,Balaji Telefilms Ltd,consolidated,https://www.screener.in/company/BALAJITELE/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+BALAMINES,Balaji Amines Ltd,consolidated,https://www.screener.in/company/BALAMINES/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+BALKRISIND,Balkrishna Industries Ltd,consolidated,https://www.screener.in/company/BALKRISIND/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+BALMLAWRIE,Balmer Lawrie & Company Ltd,consolidated,https://www.screener.in/company/BALMLAWRIE/consolidated/,False,12,,,Diversified > Diversified > Diversified
+BALRAMCHIN,Balrampur Chini Mills Ltd,consolidated,https://www.screener.in/company/BALRAMCHIN/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+BALUFORGE,Balu Forge Industries Ltd,consolidated,https://www.screener.in/company/BALUFORGE/consolidated/,False,6,,,Industrials > Capital Goods > Industrial Products
+BANARISUG,Bannari Amman Sugars Ltd,standalone,https://www.screener.in/company/BANARISUG/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+BANCOINDIA,Banco Products (India) Ltd,consolidated,https://www.screener.in/company/BANCOINDIA/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+BASML,Bannari Amman Spinning Mills Ltd,consolidated,https://www.screener.in/company/BASML/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+BATAINDIA,Bata India Ltd,consolidated,https://www.screener.in/company/BATAINDIA/consolidated/,False,13,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+BAYERCROP,Bayer CropScience Ltd,consolidated,https://www.screener.in/company/BAYERCROP/consolidated/,False,2,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+BBOX,Black Box Ltd,consolidated,https://www.screener.in/company/BBOX/consolidated/,False,12,,,Information Technology > Information Technology > IT - Services
+BBTC,The Bombay Burmah Trading Corporation Ltd,consolidated,https://www.screener.in/company/BBTC/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Food Products
+BDL,Bharat Dynamics Ltd,standalone,https://www.screener.in/company/BDL/,False,12,,,Industrials > Capital Goods > Aerospace & Defense
+BECTORFOOD,Mrs Bectors Food Specialities Ltd,consolidated,https://www.screener.in/company/BECTORFOOD/consolidated/,False,9,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Food Products
+BEDMUTHA,Bedmutha Industries Ltd,consolidated,https://www.screener.in/company/BEDMUTHA/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+BEL,Bharat Electronics Ltd,consolidated,https://www.screener.in/company/BEL/consolidated/,False,12,,,Industrials > Capital Goods > Aerospace & Defense
+BELRISE,Belrise Industries Ltd,consolidated,https://www.screener.in/company/BELRISE/consolidated/,False,5,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+BEML,BEML Ltd,consolidated,https://www.screener.in/company/BEML/consolidated/,False,12,,,"Industrials > Capital Goods > Agricultural, Commercial & Construction Vehicles"
+BERGEPAINT,Berger Paints India Ltd,consolidated,https://www.screener.in/company/BERGEPAINT/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+BFUTILITIE,BF Utilities Ltd,consolidated,https://www.screener.in/company/BFUTILITIE/consolidated/,False,13,,,Services > Services > Transport Infrastructure
+BHARATCOAL,Bharat Coking Coal Ltd,standalone,https://www.screener.in/company/BHARATCOAL/,False,6,,,"Energy > Oil, Gas & Consumable Fuels > Consumable Fuels"
+BHARATFORG,Bharat Forge Ltd,consolidated,https://www.screener.in/company/BHARATFORG/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+BHARATRAS,Bharat Rasayan Ltd,consolidated,https://www.screener.in/company/BHARATRAS/consolidated/,False,8,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+BHARTIARTL,Bharti Airtel Ltd,consolidated,https://www.screener.in/company/BHARTIARTL/consolidated/,False,12,,,Telecommunication > Telecommunication > Telecom - Services
+BHARTIHEXA,Bharti Hexacom Ltd,standalone,https://www.screener.in/company/BHARTIHEXA/,False,8,,,Telecommunication > Telecommunication > Telecom - Services
+BHEL,Bharat Heavy Electricals Ltd,consolidated,https://www.screener.in/company/BHEL/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+BIL,Bhartiya International Ltd,consolidated,https://www.screener.in/company/BIL/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+BIOCON,Biocon Ltd,consolidated,https://www.screener.in/company/BIOCON/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+BIRET,Brookfield India Real Estate Trust,consolidated,https://www.screener.in/company/BIRET/consolidated/,False,6,,,Consumer Discretionary > Realty > Realty
+BIRLACORPN,Birla Corporation Ltd,consolidated,https://www.screener.in/company/BIRLACORPN/consolidated/,False,12,,,Commodities > Construction Materials > Cement & Cement Products
+BIRLAMONEY,Aditya Birla Money Ltd,consolidated,https://www.screener.in/company/BIRLAMONEY/consolidated/,False,12,,,Financial Services > Financial Services > Capital Markets
+BLACKBUCK,Blackbuck Ltd,consolidated,https://www.screener.in/company/BLACKBUCK/consolidated/,False,6,,,Services > Services > Transport Services
+BLBLIMITED,BLB Ltd,consolidated,https://www.screener.in/company/BLBLIMITED/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+BLKASHYAP,B.L.Kashyap & Sons Ltd,consolidated,https://www.screener.in/company/BLKASHYAP/consolidated/,False,12,,,Industrials > Construction > Construction
+BLS,BLS International Services Ltd,consolidated,https://www.screener.in/company/BLS/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+BLUECOAST,Blue Coast Hotels Ltd,consolidated,https://www.screener.in/company/BLUECOAST/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+BLUEDART,Blue Dart Express Ltd,consolidated,https://www.screener.in/company/BLUEDART/consolidated/,False,12,,,Services > Services > Transport Services
+BLUEJET,Blue Jet Healthcare Ltd,consolidated,https://www.screener.in/company/BLUEJET/consolidated/,False,2,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+BLUESTARCO,Blue Star Ltd,consolidated,https://www.screener.in/company/BLUESTARCO/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+BLUESTONE,Bluestone Jewellery & Lifestyle Ltd,consolidated,https://www.screener.in/company/BLUESTONE/consolidated/,False,2,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+BORORENEW,Borosil Renewables Ltd,consolidated,https://www.screener.in/company/BORORENEW/consolidated/,False,10,,,Industrials > Capital Goods > Industrial Products
+BOSCH-HCIL,Bosch Home Comfort India Ltd,standalone,https://www.screener.in/company/BOSCH-HCIL/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+BOSCHLTD,Bosch Ltd,consolidated,https://www.screener.in/company/BOSCHLTD/consolidated/,False,11,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+BPCL,Bharat Petroleum Corporation Ltd,consolidated,https://www.screener.in/company/BPCL/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Petroleum Products"
+BRIGADE,Brigade Enterprises Ltd,consolidated,https://www.screener.in/company/BRIGADE/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+BRITANNIA,Britannia Industries Ltd,consolidated,https://www.screener.in/company/BRITANNIA/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Food Products
+BSOFT,Birlasoft Ltd,consolidated,https://www.screener.in/company/BSOFT/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+CAMPUS,Campus Activewear Ltd,consolidated,https://www.screener.in/company/CAMPUS/consolidated/,False,6,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+CAPILLARY,Capillary Technologies India Ltd,consolidated,https://www.screener.in/company/CAPILLARY/consolidated/,False,6,,,Information Technology > Information Technology > IT - Software
+CAPLIPOINT,Caplin Point Laboratories Ltd,consolidated,https://www.screener.in/company/CAPLIPOINT/consolidated/,False,13,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+CARBORUNIV,Carborundum Universal Ltd,consolidated,https://www.screener.in/company/CARBORUNIV/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+CARERATING,CARE Ratings Ltd,consolidated,https://www.screener.in/company/CARERATING/consolidated/,False,12,,,Financial Services > Financial Services > Capital Markets
+CARTRADE,Cartrade Tech Ltd,consolidated,https://www.screener.in/company/CARTRADE/consolidated/,False,10,,,Consumer Discretionary > Consumer Services > Retailing
+CASTROLIND,Castrol India Ltd,standalone,https://www.screener.in/company/CASTROLIND/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Petroleum Products"
+CCCL,Consolidated Construction Consortium Ltd,consolidated,https://www.screener.in/company/CCCL/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+CCL,CCL Products (India) Ltd,consolidated,https://www.screener.in/company/CCL/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+CEATLTD,CEAT Ltd,consolidated,https://www.screener.in/company/CEATLTD/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+CEIGALL,Ceigall India Ltd,consolidated,https://www.screener.in/company/CEIGALL/consolidated/,False,6,,,Industrials > Construction > Construction
+CELLO,Cello World Ltd,consolidated,https://www.screener.in/company/CELLO/consolidated/,False,6,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+CEMPRO,Cemindia Projects Ltd,consolidated,https://www.screener.in/company/CEMPRO/consolidated/,False,13,,,Industrials > Construction > Construction
+CENTENKA,Century Enka Ltd,consolidated,https://www.screener.in/company/CENTENKA/consolidated/,False,4,,,Consumer Discretionary > Textiles > Textiles & Apparels
+CENTUM,Centum Electronics Ltd,consolidated,https://www.screener.in/company/CENTUM/consolidated/,False,12,,,Industrials > Capital Goods > Aerospace & Defense
+CENTURYPLY,Century Plyboards (India) Ltd,consolidated,https://www.screener.in/company/CENTURYPLY/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+CERA,Cera Sanitaryware Ltd,consolidated,https://www.screener.in/company/CERA/consolidated/,False,10,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+CESC,CESC Ltd,consolidated,https://www.screener.in/company/CESC/consolidated/,False,12,,,Utilities > Power > Power
+CGPOWER,CG Power & Industrial Solutions Ltd,consolidated,https://www.screener.in/company/CGPOWER/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+CHALET,Chalet Hotels Ltd,consolidated,https://www.screener.in/company/CHALET/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+CHAMBLFERT,Chambal Fertilisers & Chemicals Ltd,consolidated,https://www.screener.in/company/CHAMBLFERT/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+CHENNPETRO,Chennai Petroleum Corporation Ltd,consolidated,https://www.screener.in/company/CHENNPETRO/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Petroleum Products"
+CIEINDIA,CIE Automotive India Ltd,consolidated,https://www.screener.in/company/CIEINDIA/consolidated/,False,13,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+CINEVISTA,Cinevista Ltd,consolidated,https://www.screener.in/company/CINEVISTA/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+CIPLA,Cipla Ltd,consolidated,https://www.screener.in/company/CIPLA/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+CLEAN,Clean Science & Technology Ltd,consolidated,https://www.screener.in/company/CLEAN/consolidated/,False,9,,,Commodities > Chemicals > Chemicals & Petrochemicals
+CLEANMAX,Clean Max Enviro Energy Solutions Ltd,consolidated,https://www.screener.in/company/CLEANMAX/consolidated/,False,6,,,Utilities > Power > Power
+CMPDI,Central Mine Planning & Design Institute Ltd,consolidated,https://www.screener.in/company/CMPDI/consolidated/,False,3,,,Industrials > Construction > Construction
+CMRGREEN,CMR Green Technologies Ltd,consolidated,https://www.screener.in/company/CMRGREEN/consolidated/,False,6,,,Industrials > Capital Goods > Industrial Products
+CMSINFO,CMS Info Systems Ltd,consolidated,https://www.screener.in/company/CMSINFO/consolidated/,False,9,,,Services > Services > Commercial Services & Supplies
+COALINDIA,Coal India Ltd,consolidated,https://www.screener.in/company/COALINDIA/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Consumable Fuels"
+COCHINSHIP,Cochin Shipyard Ltd,consolidated,https://www.screener.in/company/COCHINSHIP/consolidated/,False,9,,,Industrials > Capital Goods > Industrial Manufacturing
+COFFEEDAY,Coffee Day Enterprises Ltd,consolidated,https://www.screener.in/company/COFFEEDAY/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+COFORGE,Coforge Ltd,consolidated,https://www.screener.in/company/COFORGE/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+COHANCE,Cohance Lifesciences Ltd,consolidated,https://www.screener.in/company/COHANCE/consolidated/,False,8,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+COLPAL,Colgate-Palmolive (India) Ltd,consolidated,https://www.screener.in/company/COLPAL/consolidated/,False,5,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Personal Products
+COMPUSOFT,Compucom Software Ltd,consolidated,https://www.screener.in/company/COMPUSOFT/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Other Consumer Services
+CONCOR,Container Corporation Of India Ltd,consolidated,https://www.screener.in/company/CONCOR/consolidated/,False,12,,,Services > Services > Transport Services
+CONCORDBIO,Concord Biotech Ltd,consolidated,https://www.screener.in/company/CONCORDBIO/consolidated/,False,7,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+COROMANDEL,Coromandel International Ltd,consolidated,https://www.screener.in/company/COROMANDEL/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+COX&KINGS,Cox & Kings Ltd,consolidated,https://www.screener.in/company/COX&KINGS/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+CPPLUS,Aditya Infotech Ltd,standalone,https://www.screener.in/company/CPPLUS/,False,8,,,Industrials > Capital Goods > Industrial Manufacturing
+CRAFTSMAN,Craftsman Automation Ltd,consolidated,https://www.screener.in/company/CRAFTSMAN/consolidated/,False,10,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+CREATIVEYE,Creative Eye Ltd,standalone,https://www.screener.in/company/CREATIVEYE/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+CROMPTON,Crompton Greaves Consumer Electricals Ltd,consolidated,https://www.screener.in/company/CROMPTON/consolidated/,False,9,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+CUMMINSIND,Cummins India Ltd,consolidated,https://www.screener.in/company/CUMMINSIND/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+CUPID,Cupid Ltd,consolidated,https://www.screener.in/company/CUPID/consolidated/,False,4,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Personal Products
+CYBERTECH,Cybertech Systems & Software Ltd,consolidated,https://www.screener.in/company/CYBERTECH/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+CYIENT,Cyient Ltd,consolidated,https://www.screener.in/company/CYIENT/consolidated/,False,12,,,Information Technology > Information Technology > IT - Services
+DABUR,Dabur India Ltd,consolidated,https://www.screener.in/company/DABUR/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Personal Products
+DALBHARAT,Dalmia Bharat Ltd,consolidated,https://www.screener.in/company/DALBHARAT/consolidated/,False,10,,,Commodities > Construction Materials > Cement & Cement Products
+DATAMATICS,Datamatics Global Services Ltd,consolidated,https://www.screener.in/company/DATAMATICS/consolidated/,False,12,,,Information Technology > Information Technology > IT - Services
+DATAPATTNS,Data Patterns (India) Ltd,standalone,https://www.screener.in/company/DATAPATTNS/,False,12,,,Industrials > Capital Goods > Aerospace & Defense
+DBCORP,D B Corp Ltd,consolidated,https://www.screener.in/company/DBCORP/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Media"
+DBL,Dilip Buildcon Ltd,consolidated,https://www.screener.in/company/DBL/consolidated/,False,12,,,Industrials > Construction > Construction
+DBREALTY,Valor Estate Ltd,consolidated,https://www.screener.in/company/DBREALTY/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+DCW,DCW Ltd,consolidated,https://www.screener.in/company/DCW/consolidated/,False,8,,,Commodities > Chemicals > Chemicals & Petrochemicals
+DECCANCE,Deccan Cements Ltd,consolidated,https://www.screener.in/company/DECCANCE/consolidated/,False,2,,,Commodities > Construction Materials > Cement & Cement Products
+DEEPAKFERT,Deepak Fertilisers & Petrochemicals Corp Ltd,consolidated,https://www.screener.in/company/DEEPAKFERT/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+DEEPAKNTR,Deepak Nitrite Ltd,consolidated,https://www.screener.in/company/DEEPAKNTR/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+DELHIVERY,Delhivery Ltd,consolidated,https://www.screener.in/company/DELHIVERY/consolidated/,False,8,,,Services > Services > Transport Services
+DENORA,DE Nora India Ltd,standalone,https://www.screener.in/company/DENORA/,False,13,,,Industrials > Capital Goods > Industrial Products
+DEVYANI,Devyani International Ltd,consolidated,https://www.screener.in/company/DEVYANI/consolidated/,False,11,,,Consumer Discretionary > Consumer Services > Leisure Services
+DHAMPURSUG,Dhampur Sugar Mills Ltd,consolidated,https://www.screener.in/company/DHAMPURSUG/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+DHANUKA,Dhanuka Agritech Ltd,consolidated,https://www.screener.in/company/DHANUKA/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+DIACABS,Diamond Power Infrastructure Ltd,consolidated,https://www.screener.in/company/DIACABS/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+DIGISPICE,DigiSpice Technologies Ltd,consolidated,https://www.screener.in/company/DIGISPICE/consolidated/,False,13,,,Information Technology > Information Technology > IT - Services
+DIVISLAB,Divis Laboratories Ltd,consolidated,https://www.screener.in/company/DIVISLAB/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+DIXON,Dixon Technologies (India) Ltd,consolidated,https://www.screener.in/company/DIXON/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+DLF,DLF Ltd,consolidated,https://www.screener.in/company/DLF/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+DLINKINDIA,D-Link India Ltd,consolidated,https://www.screener.in/company/DLINKINDIA/consolidated/,False,12,,,Information Technology > Information Technology > IT - Hardware
+DMART,Avenue Supermarts Ltd,consolidated,https://www.screener.in/company/DMART/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Retailing
+DOMS,DOMS Industries Ltd,consolidated,https://www.screener.in/company/DOMS/consolidated/,False,7,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Household Products
+DONEAR,Donear Industries Ltd,consolidated,https://www.screener.in/company/DONEAR/consolidated/,False,3,,,Consumer Discretionary > Textiles > Textiles & Apparels
+DREDGECORP,Dredging Corporation of India Ltd,standalone,https://www.screener.in/company/DREDGECORP/,False,12,,,Services > Services > Engineering Services
+DRREDDY,Dr Reddys Laboratories Ltd,consolidated,https://www.screener.in/company/DRREDDY/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+DUMMYHEG,,,,,0,no data,no parsable annual statements on source page,
+DUMMYINGL1,,,,,0,no data,no parsable annual statements on source page,
+DUMMYINGL2,,,,,0,no data,no parsable annual statements on source page,
+DUMMYINXGN,,,,,0,no data,no parsable annual statements on source page,
+DYNAMATECH,Dynamatic Technologies Ltd,consolidated,https://www.screener.in/company/DYNAMATECH/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Manufacturing
+E2E,E2E Networks Ltd,consolidated,https://www.screener.in/company/E2E/consolidated/,False,1,,,Information Technology > Information Technology > IT - Services
+EBGNG,GNG Electronics Ltd,consolidated,https://www.screener.in/company/EBGNG/consolidated/,False,7,,,Information Technology > Information Technology > IT - Hardware
+ECLERX,eClerx Services Ltd,consolidated,https://www.screener.in/company/ECLERX/consolidated/,False,12,,,Services > Services > Commercial Services & Supplies
+EICHERMOT,Eicher Motors Ltd,consolidated,https://www.screener.in/company/EICHERMOT/consolidated/,False,14,,,Consumer Discretionary > Automobile and Auto Components > Automobiles
+EIDPARRY,EID Parry (India) Ltd,consolidated,https://www.screener.in/company/EIDPARRY/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Food Products
+EIEL,Enviro Infra Engineers Ltd,consolidated,https://www.screener.in/company/EIEL/consolidated/,False,7,,,Utilities > Utilities > Other Utilities
+EIHOTEL,EIH Ltd,consolidated,https://www.screener.in/company/EIHOTEL/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+ELECON,Elecon Engineering Company Ltd,consolidated,https://www.screener.in/company/ELECON/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+ELECTCAST,Electrosteel Castings Ltd,consolidated,https://www.screener.in/company/ELECTCAST/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+ELGIEQUIP,Elgi Equipments Ltd,consolidated,https://www.screener.in/company/ELGIEQUIP/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+ELGIRUBCO,Elgi Rubber Company Ltd,consolidated,https://www.screener.in/company/ELGIRUBCO/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+ELLEN,Ellenbarrie Industrial Gases Ltd,standalone,https://www.screener.in/company/ELLEN/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+EMAMILTD,Emami Ltd,consolidated,https://www.screener.in/company/EMAMILTD/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Personal Products
+EMAMIREAL,Emami Realty Ltd,consolidated,https://www.screener.in/company/EMAMIREAL/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+EMBASSY,Embassy Office Parks REIT,consolidated,https://www.screener.in/company/EMBASSY/consolidated/,False,8,,,Consumer Discretionary > Realty > Realty
+EMBDL,Embassy Developments Ltd,consolidated,https://www.screener.in/company/EMBDL/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+EMCURE,Emcure Pharmaceuticals Ltd,consolidated,https://www.screener.in/company/EMCURE/consolidated/,False,8,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+EMIL,Electronics Mart India Ltd,consolidated,https://www.screener.in/company/EMIL/consolidated/,False,7,,,Consumer Discretionary > Consumer Services > Retailing
+EMKAY,Emkay Global Financial Services Ltd,consolidated,https://www.screener.in/company/EMKAY/consolidated/,False,12,,,Financial Services > Financial Services > Capital Markets
+EMMBI,Emmbi Industries Ltd,consolidated,https://www.screener.in/company/EMMBI/consolidated/,False,2,,,Industrials > Capital Goods > Industrial Products
+EMMVEE,Emmvee Photovoltaic Power Ltd,consolidated,https://www.screener.in/company/EMMVEE/consolidated/,False,7,,,Industrials > Capital Goods > Electrical Equipment
+ENDURANCE,Endurance Technologies Ltd,consolidated,https://www.screener.in/company/ENDURANCE/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+ENERGYDEV,Energy Development Company Ltd,consolidated,https://www.screener.in/company/ENERGYDEV/consolidated/,False,12,,,Utilities > Power > Power
+ENGINERSIN,Engineers India Ltd,consolidated,https://www.screener.in/company/ENGINERSIN/consolidated/,False,12,,,Industrials > Construction > Construction
+ENRIN,Siemens Energy India Ltd,standalone,https://www.screener.in/company/ENRIN/,False,5,,,Industrials > Capital Goods > Electrical Equipment
+ENTERO,Entero Healthcare Solutions Ltd,consolidated,https://www.screener.in/company/ENTERO/consolidated/,False,7,,,Consumer Discretionary > Consumer Services > Retailing
+EPL,EPL Ltd,consolidated,https://www.screener.in/company/EPL/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+ERIS,ERIS Lifesciences Ltd,consolidated,https://www.screener.in/company/ERIS/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+ESCORTS,Escorts Kubota Ltd,consolidated,https://www.screener.in/company/ESCORTS/consolidated/,False,12,,,"Industrials > Capital Goods > Agricultural, Commercial & Construction Vehicles"
+ETERNAL,Eternal Ltd,consolidated,https://www.screener.in/company/ETERNAL/consolidated/,False,9,,,Consumer Discretionary > Consumer Services > Retailing
+EVEREADY,Eveready Industries India Ltd,consolidated,https://www.screener.in/company/EVEREADY/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Household Products
+EVERESTIND,Everest Industries Ltd,consolidated,https://www.screener.in/company/EVERESTIND/consolidated/,False,12,,,Commodities > Construction Materials > Other Construction Materials
+EXCELINDUS,Excel Industries Ltd,consolidated,https://www.screener.in/company/EXCELINDUS/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+EXIDEIND,Exide Industries Ltd,consolidated,https://www.screener.in/company/EXIDEIND/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+FACT,Fertilizers & Chemicals Travancore Ltd,consolidated,https://www.screener.in/company/FACT/consolidated/,False,11,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+FCSSOFT,FCS Software Solutions Ltd,consolidated,https://www.screener.in/company/FCSSOFT/consolidated/,False,12,,,Information Technology > Information Technology > IT - Services
+FDC,FDC Ltd,consolidated,https://www.screener.in/company/FDC/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+FEL,Future Enterprises Ltd,consolidated,https://www.screener.in/company/FEL/consolidated/,False,13,,,Consumer Discretionary > Consumer Services > Retailing
+FIEMIND,Fiem Industries Ltd,consolidated,https://www.screener.in/company/FIEMIND/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+FILATEX,Filatex India Ltd,consolidated,https://www.screener.in/company/FILATEX/consolidated/,False,7,,,Consumer Discretionary > Textiles > Textiles & Apparels
+FINCABLES,Finolex Cables Ltd,consolidated,https://www.screener.in/company/FINCABLES/consolidated/,False,11,,,Industrials > Capital Goods > Industrial Products
+FINPIPE,Finolex Industries Ltd,consolidated,https://www.screener.in/company/FINPIPE/consolidated/,False,11,,,Industrials > Capital Goods > Industrial Products
+FIRSTCRY,Brainbees Solutions Ltd,consolidated,https://www.screener.in/company/FIRSTCRY/consolidated/,False,9,,,Consumer Discretionary > Consumer Services > Retailing
+FLUOROCHEM,Gujarat Fluorochemicals Ltd,consolidated,https://www.screener.in/company/FLUOROCHEM/consolidated/,False,9,,,Commodities > Chemicals > Chemicals & Petrochemicals
+FMGOETZE,Federal-Mogul Goetze (India) Ltd,consolidated,https://www.screener.in/company/FMGOETZE/consolidated/,False,13,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+FMNL,Future Market Networks Ltd,consolidated,https://www.screener.in/company/FMNL/consolidated/,False,12,,,Services > Services > Commercial Services & Supplies
+FORCEMOT,Force Motors Ltd,consolidated,https://www.screener.in/company/FORCEMOT/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Automobiles
+FORTIS,Fortis Healthcare Ltd,consolidated,https://www.screener.in/company/FORTIS/consolidated/,False,12,,,Healthcare > Healthcare > Healthcare Services
+FOSECOIND,Foseco India Ltd,consolidated,https://www.screener.in/company/FOSECOIND/consolidated/,False,2,,,Commodities > Chemicals > Chemicals & Petrochemicals
+FRACTAL,Fractal Analytics Ltd,consolidated,https://www.screener.in/company/FRACTAL/consolidated/,False,7,,,Information Technology > Information Technology > IT - Software
+FRETAIL,Future Retail Ltd,standalone,https://www.screener.in/company/FRETAIL/,False,10,,,Consumer Discretionary > Consumer Services > Retailing
+FSL,Firstsource Solutions Ltd,consolidated,https://www.screener.in/company/FSL/consolidated/,False,12,,,Services > Services > Commercial Services & Supplies
+GABRIEL,Gabriel India Ltd,consolidated,https://www.screener.in/company/GABRIEL/consolidated/,False,3,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+GAEL,Gujarat Ambuja Exports Ltd,consolidated,https://www.screener.in/company/GAEL/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+GAIL,GAIL (India) Ltd,consolidated,https://www.screener.in/company/GAIL/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Gas"
+GALLANTT,Gallantt Ispat Ltd.,consolidated,https://www.screener.in/company/GALLANTT/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+GANDHITUBE,Gandhi Special Tubes Ltd,standalone,https://www.screener.in/company/GANDHITUBE/,False,12,,,Industrials > Capital Goods > Industrial Products
+GARFIBRES,Garware Technical Fibres Ltd,consolidated,https://www.screener.in/company/GARFIBRES/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+GEECEE,Geecee Ventures Ltd,consolidated,https://www.screener.in/company/GEECEE/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+GENESYS,Genesys International Corporation Ltd,consolidated,https://www.screener.in/company/GENESYS/consolidated/,False,12,,,Information Technology > Information Technology > IT - Services
+GENUSPOWER,Genus Power Infrastructures Ltd,consolidated,https://www.screener.in/company/GENUSPOWER/consolidated/,False,11,,,Industrials > Capital Goods > Electrical Equipment
+GEOJITFSL,Geojit Financial Services Ltd,consolidated,https://www.screener.in/company/GEOJITFSL/consolidated/,False,12,,,Financial Services > Financial Services > Capital Markets
+GESHIP,Great Eastern Shipping Company Ltd,consolidated,https://www.screener.in/company/GESHIP/consolidated/,False,12,,,Services > Services > Transport Services
+GFLLIMITED,GFL Ltd,consolidated,https://www.screener.in/company/GFLLIMITED/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+GICHSGFIN,GIC Housing Finance Ltd,consolidated,https://www.screener.in/company/GICHSGFIN/consolidated/,True,5,,,Financial Services > Financial Services > Finance
+GILLETTE,Gillette India Ltd,standalone,https://www.screener.in/company/GILLETTE/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Personal Products
+GINNIFILA,Ginni Filaments Ltd,standalone,https://www.screener.in/company/GINNIFILA/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+GKWLIMITED,GKW Ltd,consolidated,https://www.screener.in/company/GKWLIMITED/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+GLAND,Gland Pharma Ltd,consolidated,https://www.screener.in/company/GLAND/consolidated/,False,7,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+GLAXO,Glaxosmithkline Pharmaceuticals Ltd,consolidated,https://www.screener.in/company/GLAXO/consolidated/,False,13,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+GLENMARK,Glenmark Pharmaceuticals Ltd,consolidated,https://www.screener.in/company/GLENMARK/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+GLOBALVECT,Global Vectra Helicorp Ltd,standalone,https://www.screener.in/company/GLOBALVECT/,False,12,,,Services > Services > Transport Services
+GMDCLTD,Gujarat Mineral Development Corporation Ltd,consolidated,https://www.screener.in/company/GMDCLTD/consolidated/,False,12,,,Commodities > Metals & Mining > Minerals & Mining
+GMRAIRPORT,GMR Airports Ltd,consolidated,https://www.screener.in/company/GMRAIRPORT/consolidated/,False,12,,,Services > Services > Transport Infrastructure
+GMRP&UI,GMR Power & Urban Infra Ltd,consolidated,https://www.screener.in/company/GMRP&UI/consolidated/,False,6,,,Utilities > Power > Power
+GNFC,Gujarat Narmada Valley Fertilizers & Chemicals Ltd,consolidated,https://www.screener.in/company/GNFC/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+GOACARBON,Goa Carbon Ltd,consolidated,https://www.screener.in/company/GOACARBON/consolidated/,False,7,,,Commodities > Metals & Mining > Minerals & Mining
+GODFRYPHLP,Godfrey Phillips India Ltd,consolidated,https://www.screener.in/company/GODFRYPHLP/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Cigarettes & Tobacco Products
+GODREJAGRO,Godrej Agrovet Ltd,consolidated,https://www.screener.in/company/GODREJAGRO/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Food Products
+GODREJCP,Godrej Consumer Products Ltd,consolidated,https://www.screener.in/company/GODREJCP/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Personal Products
+GODREJIND,Godrej Industries Ltd,consolidated,https://www.screener.in/company/GODREJIND/consolidated/,False,12,,,Diversified > Diversified > Diversified
+GODREJPROP,Godrej Properties Ltd,consolidated,https://www.screener.in/company/GODREJPROP/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+GOKEX,Gokaldas Exports Ltd,consolidated,https://www.screener.in/company/GOKEX/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+GOKUL,Gokul Refoils and Solvent Ltd,consolidated,https://www.screener.in/company/GOKUL/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+GOKULAGRO,Gokul Agro Resources Ltd,consolidated,https://www.screener.in/company/GOKULAGRO/consolidated/,False,11,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+GOLDIAM,Goldiam International Ltd,consolidated,https://www.screener.in/company/GOLDIAM/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+GPIL,Godawari Power & Ispat Ltd,consolidated,https://www.screener.in/company/GPIL/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+GPPL,Gujarat Pipavav Port Ltd,consolidated,https://www.screener.in/company/GPPL/consolidated/,False,11,,,Services > Services > Transport Infrastructure
+GRANULES,Granules India Ltd,consolidated,https://www.screener.in/company/GRANULES/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+GRAPHITE,Graphite India Ltd,consolidated,https://www.screener.in/company/GRAPHITE/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+GRASIM,Grasim Industries Ltd,consolidated,https://www.screener.in/company/GRASIM/consolidated/,False,12,,,Commodities > Construction Materials > Cement & Cement Products
+GRAVITA,Gravita India Ltd,consolidated,https://www.screener.in/company/GRAVITA/consolidated/,False,12,,,Commodities > Metals & Mining > Minerals & Mining
+GREAVESCOT,Greaves Cotton Ltd,consolidated,https://www.screener.in/company/GREAVESCOT/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+GREENPOWER,Orient Green Power Company Ltd,consolidated,https://www.screener.in/company/GREENPOWER/consolidated/,False,12,,,Utilities > Power > Power
+GRINDWELL,Grindwell Norton Ltd,consolidated,https://www.screener.in/company/GRINDWELL/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+GRSE,Garden Reach Shipbuilders & Engineers Ltd,standalone,https://www.screener.in/company/GRSE/,False,12,,,Industrials > Capital Goods > Aerospace & Defense
+GRWRHITECH,Garware Hi Tech Films Ltd,consolidated,https://www.screener.in/company/GRWRHITECH/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+GSFC,Gujarat State Fertilizers & Chemicals Ltd,consolidated,https://www.screener.in/company/GSFC/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+GSS,GSS Infotech Ltd,consolidated,https://www.screener.in/company/GSS/consolidated/,False,12,,,Information Technology > Information Technology > IT - Services
+GTL,GTL Ltd,consolidated,https://www.screener.in/company/GTL/consolidated/,False,14,,,Telecommunication > Telecommunication > Telecom - Services
+GUJALKALI,Gujarat Alkalies & Chemicals Ltd,consolidated,https://www.screener.in/company/GUJALKALI/consolidated/,False,11,,,Commodities > Chemicals > Chemicals & Petrochemicals
+GUJAPOLLO,Gujarat Apollo Industries Ltd,consolidated,https://www.screener.in/company/GUJAPOLLO/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Manufacturing
+GVPIL,GE Power India Ltd,consolidated,https://www.screener.in/company/GVPIL/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+GVT&D,GE Vernova T&D India Ltd,consolidated,https://www.screener.in/company/GVT&D/consolidated/,False,1,,,Industrials > Capital Goods > Electrical Equipment
+HAL,Hindustan Aeronautics Ltd,consolidated,https://www.screener.in/company/HAL/consolidated/,False,12,,,Industrials > Capital Goods > Aerospace & Defense
+HAPPSTMNDS,Happiest Minds Technologies Ltd,consolidated,https://www.screener.in/company/HAPPSTMNDS/consolidated/,False,8,,,Information Technology > Information Technology > IT - Software
+HAPPYFORGE,Happy Forgings Ltd,consolidated,https://www.screener.in/company/HAPPYFORGE/consolidated/,False,6,,,Industrials > Capital Goods > Industrial Products
+HARRMALAYA,Harrisons Malayalam Ltd,consolidated,https://www.screener.in/company/HARRMALAYA/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+HATHWAY,Hathway Cable & Datacom Ltd,consolidated,https://www.screener.in/company/HATHWAY/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+HAVELLS,Havells India Ltd,consolidated,https://www.screener.in/company/HAVELLS/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+HAVISHA,Sri Havisha Hospitality & Infrastructure Ltd,consolidated,https://www.screener.in/company/HAVISHA/consolidated/,False,8,,,Consumer Discretionary > Consumer Services > Leisure Services
+HBLENGINE,HBL Engineering Ltd,consolidated,https://www.screener.in/company/HBLENGINE/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+HCC,Hindustan Construction Company Ltd,consolidated,https://www.screener.in/company/HCC/consolidated/,False,12,,,Industrials > Construction > Construction
+HCG,Healthcare Global Enterprises Ltd,consolidated,https://www.screener.in/company/HCG/consolidated/,False,12,,,Healthcare > Healthcare > Healthcare Services
+HCL-INSYS,HCL Infosystems Ltd,consolidated,https://www.screener.in/company/HCL-INSYS/consolidated/,False,13,,,Information Technology > Information Technology > IT - Hardware
+HCLTECH,HCL Technologies Ltd,consolidated,https://www.screener.in/company/HCLTECH/consolidated/,False,13,,,Information Technology > Information Technology > IT - Software
+HEGAM,HEG Advanced Materials Ltd,consolidated,https://www.screener.in/company/HEGAM/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+HEIDELBERG,HeidelbergCement India Ltd,standalone,https://www.screener.in/company/HEIDELBERG/,False,13,,,Commodities > Construction Materials > Cement & Cement Products
+HERITGFOOD,Heritage Foods Ltd,consolidated,https://www.screener.in/company/HERITGFOOD/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Food Products
+HEROMOTOCO,Hero MotoCorp Ltd,consolidated,https://www.screener.in/company/HEROMOTOCO/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Automobiles
+HEXATRADEX,Hexa Tradex Ltd,consolidated,https://www.screener.in/company/HEXATRADEX/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+HEXT,Hexaware Technologies Ltd,consolidated,https://www.screener.in/company/HEXT/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+HFCL,HFCL Ltd,consolidated,https://www.screener.in/company/HFCL/consolidated/,False,12,,,Telecommunication > Telecommunication > Telecom - Services
+HGINFRA,H.G. Infra Engineering Ltd,consolidated,https://www.screener.in/company/HGINFRA/consolidated/,False,12,,,Industrials > Construction > Construction
+HGM,Handson Global Management (HGM) Ltd,consolidated,https://www.screener.in/company/HGM/consolidated/,False,12,,,Information Technology > Information Technology > IT - Services
+HILTON,Hilton Metal Forging Ltd,standalone,https://www.screener.in/company/HILTON/,False,12,,,Industrials > Capital Goods > Industrial Products
+HIMATSEIDE,Himatsingka Seide Ltd,consolidated,https://www.screener.in/company/HIMATSEIDE/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+HINDALCO,Hindalco Industries Ltd,consolidated,https://www.screener.in/company/HINDALCO/consolidated/,False,12,,,Commodities > Metals & Mining > Non - Ferrous Metals
+HINDCOPPER,Hindustan Copper Ltd,consolidated,https://www.screener.in/company/HINDCOPPER/consolidated/,False,8,,,Commodities > Metals & Mining > Non - Ferrous Metals
+HINDOILEXP,Hindustan Oil Exploration Company Ltd,consolidated,https://www.screener.in/company/HINDOILEXP/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Oil"
+HINDPETRO,Hindustan Petroleum Corporation Ltd,consolidated,https://www.screener.in/company/HINDPETRO/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Petroleum Products"
+HINDUNILVR,Hindustan Unilever Ltd,consolidated,https://www.screener.in/company/HINDUNILVR/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Diversified FMCG
+HINDZINC,Hindustan Zinc Ltd,consolidated,https://www.screener.in/company/HINDZINC/consolidated/,False,6,,,Commodities > Metals & Mining > Non - Ferrous Metals
+HLVLTD,HLV Ltd,consolidated,https://www.screener.in/company/HLVLTD/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+HONASA,Honasa Consumer Ltd,consolidated,https://www.screener.in/company/HONASA/consolidated/,False,6,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Personal Products
+HONAUT,Honeywell Automation India Ltd,standalone,https://www.screener.in/company/HONAUT/,False,13,,,Industrials > Capital Goods > Industrial Manufacturing
+HONDAPOWER,Honda India Power Products Ltd,standalone,https://www.screener.in/company/HONDAPOWER/,False,12,,,Industrials > Capital Goods > Industrial Manufacturing
+HSCL,Himadri Speciality Chemical Ltd,consolidated,https://www.screener.in/company/HSCL/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+HYUNDAI,Hyundai Motor India Ltd,consolidated,https://www.screener.in/company/HYUNDAI/consolidated/,False,6,,,Consumer Discretionary > Automobile and Auto Components > Automobiles
+ICIL,Indo Count Industries Ltd,consolidated,https://www.screener.in/company/ICIL/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+ICRA,ICRA Ltd,consolidated,https://www.screener.in/company/ICRA/consolidated/,False,12,,,Financial Services > Financial Services > Capital Markets
+IDEA,Vodafone Idea Ltd,consolidated,https://www.screener.in/company/IDEA/consolidated/,False,12,,,Telecommunication > Telecommunication > Telecom - Services
+IFBAGRO,IFB Agro Industries Ltd,consolidated,https://www.screener.in/company/IFBAGRO/consolidated/,False,9,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Beverages
+IFBIND,IFB Industries Ltd,consolidated,https://www.screener.in/company/IFBIND/consolidated/,False,10,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+IGARASHI,Igarashi Motors India Ltd,consolidated,https://www.screener.in/company/IGARASHI/consolidated/,False,1,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+IGIL,International Gemological Institute Limited,consolidated,https://www.screener.in/company/IGIL/consolidated/,False,6,,,Services > Services > Commercial Services & Supplies
+IGL,Indraprastha Gas Ltd,consolidated,https://www.screener.in/company/IGL/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Gas"
+IGPL,I G Petrochemicals Ltd,consolidated,https://www.screener.in/company/IGPL/consolidated/,False,11,,,Commodities > Chemicals > Chemicals & Petrochemicals
+IKS,Inventurus Knowledge Solutions Ltd,consolidated,https://www.screener.in/company/IKS/consolidated/,False,7,,,Information Technology > Information Technology > IT - Services
+IL&FSENGG,IL&FS Engineering & Construction Co Ltd,consolidated,https://www.screener.in/company/IL&FSENGG/consolidated/,False,12,,,Industrials > Construction > Construction
+IL&FSTRANS,IL&FS Transportation Networks Ltd,consolidated,https://www.screener.in/company/IL&FSTRANS/consolidated/,False,12,,,Industrials > Construction > Construction
+IMFA,Indian Metals & Ferro Alloys Ltd,consolidated,https://www.screener.in/company/IMFA/consolidated/,False,12,,,Commodities > Metals & Mining > Ferrous Metals
+INDGN,Indegene Ltd,consolidated,https://www.screener.in/company/INDGN/consolidated/,False,8,,,Healthcare > Healthcare > Healthcare Services
+INDHOTEL,Indian Hotels Co Ltd,consolidated,https://www.screener.in/company/INDHOTEL/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+INDIACEM,India Cements Ltd,consolidated,https://www.screener.in/company/INDIACEM/consolidated/,False,12,,,Commodities > Construction Materials > Cement & Cement Products
+INDIAGLYCO,India Glycols Ltd,consolidated,https://www.screener.in/company/INDIAGLYCO/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Beverages
+INDIAMART,Indiamart Intermesh Ltd,consolidated,https://www.screener.in/company/INDIAMART/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Retailing
+INDIANHUME,Indian Hume Pipe Company Ltd,standalone,https://www.screener.in/company/INDIANHUME/,False,12,,,Industrials > Construction > Construction
+INDIGO,Interglobe Aviation Ltd,consolidated,https://www.screener.in/company/INDIGO/consolidated/,False,10,,,Services > Services > Transport Services
+INDIGOPNTS,Indigo Paints Ltd,consolidated,https://www.screener.in/company/INDIGOPNTS/consolidated/,False,4,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+INDNIPPON,India Nippon Electricals Ltd,consolidated,https://www.screener.in/company/INDNIPPON/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+INDORAMA,Indo Rama Synthetics (India) Ltd,consolidated,https://www.screener.in/company/INDORAMA/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+INDOTHAI,Indo Thai Securities Ltd,consolidated,https://www.screener.in/company/INDOTHAI/consolidated/,False,12,,,Financial Services > Financial Services > Capital Markets
+INDOWIND,Indowind Energy Ltd,consolidated,https://www.screener.in/company/INDOWIND/consolidated/,False,12,,,Utilities > Power > Power
+INDRAMEDCO,Indraprastha Medical Corporation Ltd,standalone,https://www.screener.in/company/INDRAMEDCO/,False,12,,,Healthcare > Healthcare > Healthcare Services
+INDSWFTLAB,Ind-Swift Laboratories Ltd,consolidated,https://www.screener.in/company/INDSWFTLAB/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+INDTERRAIN,Indian Terrain Fashions Ltd,standalone,https://www.screener.in/company/INDTERRAIN/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+INDUSTOWER,Indus Towers Ltd,consolidated,https://www.screener.in/company/INDUSTOWER/consolidated/,False,12,,,Telecommunication > Telecommunication > Telecom - Services
+INFY,Infosys Ltd,consolidated,https://www.screener.in/company/INFY/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+INGERRAND,Ingersoll-Rand (India) Ltd,standalone,https://www.screener.in/company/INGERRAND/,False,12,,,Industrials > Capital Goods > Industrial Products
+INOXINDIA,Inox India Ltd,consolidated,https://www.screener.in/company/INOXINDIA/consolidated/,False,8,,,Industrials > Capital Goods > Industrial Products
+INOXWIND,Inox Wind Ltd,consolidated,https://www.screener.in/company/INOXWIND/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+INSECTICID,Insecticides India Ltd,consolidated,https://www.screener.in/company/INSECTICID/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+INTELLECT,Intellect Design Arena Ltd,consolidated,https://www.screener.in/company/INTELLECT/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+IOC,Indian Oil Corporation Ltd,consolidated,https://www.screener.in/company/IOC/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Petroleum Products"
+IOLCP,IOL Chemicals & Pharmaceuticals Ltd,consolidated,https://www.screener.in/company/IOLCP/consolidated/,False,5,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+IONEXCHANG,Ion Exchange (India) Ltd,consolidated,https://www.screener.in/company/IONEXCHANG/consolidated/,False,12,,,Utilities > Utilities > Other Utilities
+IPCALAB,Ipca Laboratories Ltd,consolidated,https://www.screener.in/company/IPCALAB/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+IRB,IRB Infrastructure Developers Ltd,consolidated,https://www.screener.in/company/IRB/consolidated/,False,12,,,Industrials > Construction > Construction
+IRCON,Ircon International Ltd,consolidated,https://www.screener.in/company/IRCON/consolidated/,False,12,,,Industrials > Construction > Construction
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,consolidated,https://www.screener.in/company/IRCTC/consolidated/,False,4,,,Consumer Discretionary > Consumer Services > Leisure Services
+ITC,ITC Ltd,consolidated,https://www.screener.in/company/ITC/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Diversified FMCG
+ITCHOTELS,ITC Hotels Ltd,consolidated,https://www.screener.in/company/ITCHOTELS/consolidated/,False,3,,,Consumer Discretionary > Consumer Services > Leisure Services
+ITI,ITI Ltd,consolidated,https://www.screener.in/company/ITI/consolidated/,False,10,,,Telecommunication > Telecommunication > Telecom -  Equipment & Accessories
+IXIGO,Le Travenues Technology Ltd,consolidated,https://www.screener.in/company/IXIGO/consolidated/,False,8,,,Consumer Discretionary > Consumer Services > Leisure Services
+JAGSNPHARM,Jagsonpal Pharmaceuticals Ltd,standalone,https://www.screener.in/company/JAGSNPHARM/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+JAIBALAJI,Jai Balaji Industries Ltd,consolidated,https://www.screener.in/company/JAIBALAJI/consolidated/,False,12,,,Commodities > Metals & Mining > Ferrous Metals
+JAICORPLTD,Jai Corp Ltd,consolidated,https://www.screener.in/company/JAICORPLTD/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+JAINREC,Jain Resource Recycling Ltd,consolidated,https://www.screener.in/company/JAINREC/consolidated/,False,4,,,Commodities > Metals & Mining > Diversified Metals
+JAMNAAUTO,Jamna Auto Industries Ltd,consolidated,https://www.screener.in/company/JAMNAAUTO/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+JAYBARMARU,Jay Bharat Maruti Ltd,consolidated,https://www.screener.in/company/JAYBARMARU/consolidated/,False,8,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+JAYNECOIND,Jayaswal Neco Industries Ltd,consolidated,https://www.screener.in/company/JAYNECOIND/consolidated/,False,7,,,Industrials > Capital Goods > Industrial Products
+JAYSREETEA,Jay Shree Tea & Industries Ltd,consolidated,https://www.screener.in/company/JAYSREETEA/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+JBMA,JBM Auto Ltd,consolidated,https://www.screener.in/company/JBMA/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+JETAIRWAYS,Jet Airways (India) Ltd,consolidated,https://www.screener.in/company/JETAIRWAYS/consolidated/,False,11,,,Services > Services > Transport Services
+JINDALSAW,Jindal Saw Ltd,consolidated,https://www.screener.in/company/JINDALSAW/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+JINDALSTEL,Jindal Steel Ltd,consolidated,https://www.screener.in/company/JINDALSTEL/consolidated/,False,12,,,Commodities > Metals & Mining > Ferrous Metals
+JISLDVREQS,,,,,0,no data,no parsable annual statements on source page,
+JKCEMENT,J K Cements Ltd,consolidated,https://www.screener.in/company/JKCEMENT/consolidated/,False,12,,,Commodities > Construction Materials > Cement & Cement Products
+JKIL,J Kumar Infraprojects Ltd,consolidated,https://www.screener.in/company/JKIL/consolidated/,False,6,,,Industrials > Construction > Construction
+JKPAPER,JK Paper Ltd,consolidated,https://www.screener.in/company/JKPAPER/consolidated/,False,12,,,"Commodities > Forest Materials > Paper, Forest & Jute Products"
+JKTYRE,JK Tyre & Industries Ltd,consolidated,https://www.screener.in/company/JKTYRE/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+JPOLYINVST,Jindal Poly Investment & Finance Company Ltd,consolidated,https://www.screener.in/company/JPOLYINVST/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+JPPOWER,Jaiprakash Power Ventures Ltd,consolidated,https://www.screener.in/company/JPPOWER/consolidated/,False,12,,,Utilities > Power > Power
+JSL,Jindal Stainless Ltd,consolidated,https://www.screener.in/company/JSL/consolidated/,False,12,,,Commodities > Metals & Mining > Ferrous Metals
+JSLL,Jeena Sikho Lifecare Ltd,consolidated,https://www.screener.in/company/JSLL/consolidated/,False,4,,,Consumer Discretionary > Consumer Services > Leisure Services
+JSWCEMENT,JSW Cement Ltd,consolidated,https://www.screener.in/company/JSWCEMENT/consolidated/,False,7,,,Commodities > Construction Materials > Cement & Cement Products
+JSWDULUX,JSW Dulux Ltd,consolidated,https://www.screener.in/company/JSWDULUX/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+JSWENERGY,JSW Energy Ltd,consolidated,https://www.screener.in/company/JSWENERGY/consolidated/,False,12,,,Utilities > Power > Power
+JSWINFRA,JSW Infrastructure Ltd,consolidated,https://www.screener.in/company/JSWINFRA/consolidated/,False,10,,,Services > Services > Transport Infrastructure
+JSWSTEEL,JSW Steel Ltd,consolidated,https://www.screener.in/company/JSWSTEEL/consolidated/,False,12,,,Commodities > Metals & Mining > Ferrous Metals
+JUBLFOOD,Jubilant Foodworks Ltd,consolidated,https://www.screener.in/company/JUBLFOOD/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+JUBLINGREA,Jubilant Ingrevia Ltd,consolidated,https://www.screener.in/company/JUBLINGREA/consolidated/,False,7,,,Commodities > Chemicals > Chemicals & Petrochemicals
+JUBLPHARMA,Jubilant Pharmova Ltd,consolidated,https://www.screener.in/company/JUBLPHARMA/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+JUSTDIAL,Just Dial Ltd,consolidated,https://www.screener.in/company/JUSTDIAL/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Retailing
+JWL,Jupiter Wagons Ltd,consolidated,https://www.screener.in/company/JWL/consolidated/,False,6,,,Industrials > Capital Goods > Industrial Manufacturing
+JYOTHYLAB,Jyothy Labs Ltd,consolidated,https://www.screener.in/company/JYOTHYLAB/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Household Products
+JYOTICNC,Jyoti CNC Automation Ltd,consolidated,https://www.screener.in/company/JYOTICNC/consolidated/,False,8,,,Industrials > Capital Goods > Industrial Manufacturing
+JYOTISTRUC,Jyoti Structures Ltd,consolidated,https://www.screener.in/company/JYOTISTRUC/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+KAJARIACER,Kajaria Ceramics Ltd,consolidated,https://www.screener.in/company/KAJARIACER/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+KAKATCEM,Kakatiya Cement Sugar & Industries Ltd,standalone,https://www.screener.in/company/KAKATCEM/,False,12,,,Commodities > Construction Materials > Cement & Cement Products
+KALYANKJIL,Kalyan Jewellers India Ltd,consolidated,https://www.screener.in/company/KALYANKJIL/consolidated/,False,9,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+KAMATHOTEL,Kamat Hotels (India) Ltd,consolidated,https://www.screener.in/company/KAMATHOTEL/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+KAMDHENU,Kamdhenu Ltd,consolidated,https://www.screener.in/company/KAMDHENU/consolidated/,False,3,,,Industrials > Capital Goods > Industrial Products
+KANSAINER,Kansai Nerolac Paints Ltd,consolidated,https://www.screener.in/company/KANSAINER/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+KARMAENG,Karma Energy Ltd,consolidated,https://www.screener.in/company/KARMAENG/consolidated/,False,12,,,Utilities > Power > Power
+KAYNES,Kaynes Technology India Ltd,consolidated,https://www.screener.in/company/KAYNES/consolidated/,False,8,,,Industrials > Capital Goods > Industrial Manufacturing
+KCP,K C P Ltd,consolidated,https://www.screener.in/company/KCP/consolidated/,False,12,,,Commodities > Construction Materials > Cement & Cement Products
+KEC,KEC International Ltd,consolidated,https://www.screener.in/company/KEC/consolidated/,False,12,,,Industrials > Construction > Construction
+KEEPLEARN,DSJ Keep Learning Ltd,standalone,https://www.screener.in/company/KEEPLEARN/,False,12,,,Consumer Discretionary > Consumer Services > Other Consumer Services
+KEI,KEI Industries Ltd,consolidated,https://www.screener.in/company/KEI/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+KERNEX,Kernex Microsystems (India) Ltd,consolidated,https://www.screener.in/company/KERNEX/consolidated/,False,12,,,Services > Services > Transport Services
+KHAITANLTD,Khaitan (India) Ltd,consolidated,https://www.screener.in/company/KHAITANLTD/consolidated/,False,3,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+KHANDSE,Khandwala Securities Ltd,consolidated,https://www.screener.in/company/KHANDSE/consolidated/,False,12,,,Financial Services > Financial Services > Capital Markets
+KIMS,Krishna Institute of Medical Sciences Ltd,consolidated,https://www.screener.in/company/KIMS/consolidated/,False,11,,,Healthcare > Healthcare > Healthcare Services
+KIRIINDUS,Kiri Industries Ltd,consolidated,https://www.screener.in/company/KIRIINDUS/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+KIRLOSBROS,Kirloskar Brothers Ltd,consolidated,https://www.screener.in/company/KIRLOSBROS/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+KIRLOSENG,Kirloskar Oil Engines Ltd,consolidated,https://www.screener.in/company/KIRLOSENG/consolidated/,False,11,,,Industrials > Capital Goods > Industrial Products
+KIRLOSIND,Kirloskar Industries Ltd,consolidated,https://www.screener.in/company/KIRLOSIND/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+KIRLPNU,Kirloskar Pneumatic Company Ltd,consolidated,https://www.screener.in/company/KIRLPNU/consolidated/,False,8,,,Industrials > Capital Goods > Industrial Products
+KITEX,Kitex Garments Ltd,consolidated,https://www.screener.in/company/KITEX/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+KMEW,Knowledge Marine & Engineering Works Ltd,consolidated,https://www.screener.in/company/KMEW/consolidated/,False,9,,,Services > Services > Engineering Services
+KNRCON,KNR Constructions Ltd,consolidated,https://www.screener.in/company/KNRCON/consolidated/,False,12,,,Industrials > Construction > Construction
+KOHINOOR,Kohinoor Foods Ltd,consolidated,https://www.screener.in/company/KOHINOOR/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+KOKUYOCMLN,Kokuyo Camlin Ltd,consolidated,https://www.screener.in/company/KOKUYOCMLN/consolidated/,False,11,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Household Products
+KOLTEPATIL,Kolte Patil Developers Ltd,consolidated,https://www.screener.in/company/KOLTEPATIL/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+KOPRAN,Kopran Ltd,consolidated,https://www.screener.in/company/KOPRAN/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+KOTHARIPET,Kothari Petrochemicals Ltd,consolidated,https://www.screener.in/company/KOTHARIPET/consolidated/,False,4,,,Commodities > Chemicals > Chemicals & Petrochemicals
+KPIGREEN,KPI Green Energy Ltd,consolidated,https://www.screener.in/company/KPIGREEN/consolidated/,False,8,,,Utilities > Power > Power
+KPIL,Kalpataru Projects International Ltd,consolidated,https://www.screener.in/company/KPIL/consolidated/,False,12,,,Industrials > Construction > Construction
+KPITTECH,KPIT Technologies Ltd,consolidated,https://www.screener.in/company/KPITTECH/consolidated/,False,10,,,Information Technology > Information Technology > IT - Software
+KPRMILL,K P R Mill Ltd,consolidated,https://www.screener.in/company/KPRMILL/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+KRBL,KRBL Ltd,consolidated,https://www.screener.in/company/KRBL/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+KRN,KRN Heat Exchanger and Refrigeration Ltd,consolidated,https://www.screener.in/company/KRN/consolidated/,False,3,,,Industrials > Capital Goods > Industrial Products
+KSB,KSB Ltd,consolidated,https://www.screener.in/company/KSB/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+KSCL,Kaveri Seed Company Ltd,consolidated,https://www.screener.in/company/KSCL/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+KWIL,Kwality Walls India Ltd,standalone,https://www.screener.in/company/KWIL/,False,1,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Food Products
+LALPATHLAB,Dr Lal Pathlabs Ltd,consolidated,https://www.screener.in/company/LALPATHLAB/consolidated/,False,12,,,Healthcare > Healthcare > Healthcare Services
+LATENTVIEW,Latent View Analytics Ltd,consolidated,https://www.screener.in/company/LATENTVIEW/consolidated/,False,10,,,Information Technology > Information Technology > IT - Software
+LAURUSLABS,Laurus Labs Ltd,consolidated,https://www.screener.in/company/LAURUSLABS/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+LEMONTREE,Lemon Tree Hotels Ltd,consolidated,https://www.screener.in/company/LEMONTREE/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+LENSKART,Lenskart Solutions Ltd,consolidated,https://www.screener.in/company/LENSKART/consolidated/,False,7,,,Consumer Discretionary > Consumer Services > Retailing
+LGEINDIA,LG Electronics India Ltd,standalone,https://www.screener.in/company/LGEINDIA/,False,7,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+LINDEINDIA,Linde India Ltd,consolidated,https://www.screener.in/company/LINDEINDIA/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+LLOYDSENGG,Lloyds Engineering Works Ltd,consolidated,https://www.screener.in/company/LLOYDSENGG/consolidated/,False,2,,,Industrials > Capital Goods > Industrial Manufacturing
+LLOYDSENT,Lloyds Enterprises Ltd,consolidated,https://www.screener.in/company/LLOYDSENT/consolidated/,False,12,,,Commodities > Metals & Mining > Metals & Minerals Trading
+LLOYDSME,Lloyds Metals & Energy Ltd,consolidated,https://www.screener.in/company/LLOYDSME/consolidated/,False,12,,,Commodities > Metals & Mining > Minerals & Mining
+LODHA,Lodha Developers Ltd,consolidated,https://www.screener.in/company/LODHA/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+LOKESHMACH,Lokesh Machines Ltd,standalone,https://www.screener.in/company/LOKESHMACH/,False,12,,,Industrials > Capital Goods > Industrial Manufacturing
+LOTUSDEV,Sri Lotus Developers & Realty Ltd,consolidated,https://www.screener.in/company/LOTUSDEV/consolidated/,False,5,,,Consumer Discretionary > Realty > Realty
+LOTUSEYE,Lotus Eye Hospital & Institute Ltd,standalone,https://www.screener.in/company/LOTUSEYE/,False,12,,,Healthcare > Healthcare > Healthcare Services
+LOVABLE,Lovable Lingerie Ltd,standalone,https://www.screener.in/company/LOVABLE/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+LPDC,Landmark Property Development Company Ltd,standalone,https://www.screener.in/company/LPDC/,False,12,,,Consumer Discretionary > Realty > Realty
+LT,Larsen & Toubro Ltd,consolidated,https://www.screener.in/company/LT/consolidated/,False,12,,,Industrials > Construction > Construction
+LTFOODS,L T Foods Ltd,consolidated,https://www.screener.in/company/LTFOODS/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+LTM,LTM Ltd,consolidated,https://www.screener.in/company/LTM/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+LTTS,L&T Technology Services Ltd,consolidated,https://www.screener.in/company/LTTS/consolidated/,False,12,,,Information Technology > Information Technology > IT - Services
+LUMAXIND,Lumax Industries Ltd,consolidated,https://www.screener.in/company/LUMAXIND/consolidated/,False,11,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+LUMAXTECH,Lumax Auto Technologies Ltd,consolidated,https://www.screener.in/company/LUMAXTECH/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+LUPIN,Lupin Ltd,consolidated,https://www.screener.in/company/LUPIN/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+LXCHEM,Laxmi Organic Industries Ltd,consolidated,https://www.screener.in/company/LXCHEM/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+MADHAV,Madhav Marbles and Granites Ltd,consolidated,https://www.screener.in/company/MADHAV/consolidated/,False,8,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+MAHAPEXLTD,Maha Rashtra Apex Corporation Ltd,consolidated,https://www.screener.in/company/MAHAPEXLTD/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+MAHSCOOTER,Maharashtra Scooters Ltd,standalone,https://www.screener.in/company/MAHSCOOTER/,False,12,,,Financial Services > Financial Services > Finance
+MAHSEAMLES,Maharashtra Seamless Ltd,consolidated,https://www.screener.in/company/MAHSEAMLES/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+MALUPAPER,Malu Paper Mills Ltd,standalone,https://www.screener.in/company/MALUPAPER/,False,12,,,"Commodities > Forest Materials > Paper, Forest & Jute Products"
+MANALIPETC,Manali Petrochemicals Ltd,consolidated,https://www.screener.in/company/MANALIPETC/consolidated/,False,11,,,Commodities > Chemicals > Chemicals & Petrochemicals
+MANGALAM,Mangalam Drugs and Organics Ltd,consolidated,https://www.screener.in/company/MANGALAM/consolidated/,False,3,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+MANINFRA,Man Infraconstruction Ltd,consolidated,https://www.screener.in/company/MANINFRA/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+MANKIND,Mankind Pharma Ltd,consolidated,https://www.screener.in/company/MANKIND/consolidated/,False,8,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+MANORAMA,Manorama Industries Ltd,consolidated,https://www.screener.in/company/MANORAMA/consolidated/,False,2,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Food Products
+MANYAVAR,Vedant Fashions Ltd,consolidated,https://www.screener.in/company/MANYAVAR/consolidated/,False,7,,,Consumer Discretionary > Consumer Services > Retailing
+MAPMYINDIA,C.E. Info Systems Ltd,consolidated,https://www.screener.in/company/MAPMYINDIA/consolidated/,False,8,,,Information Technology > Information Technology > IT - Software
+MARICO,Marico Ltd,consolidated,https://www.screener.in/company/MARICO/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+MARKSANS,Marksans Pharma Ltd,consolidated,https://www.screener.in/company/MARKSANS/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+MARUTI,Maruti Suzuki India Ltd,consolidated,https://www.screener.in/company/MARUTI/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Automobiles
+MASTEK,Mastek Ltd,consolidated,https://www.screener.in/company/MASTEK/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+MAXHEALTH,Max Healthcare Institute Ltd,consolidated,https://www.screener.in/company/MAXHEALTH/consolidated/,False,10,,,Healthcare > Healthcare > Healthcare Services
+MAZDOCK,Mazagon Dock Shipbuilders Ltd,consolidated,https://www.screener.in/company/MAZDOCK/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Manufacturing
+MBAPL,Madhya Bharat Agro Products Ltd,standalone,https://www.screener.in/company/MBAPL/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+MBECL,McNally Bharat Engineering Company Ltd,consolidated,https://www.screener.in/company/MBECL/consolidated/,False,12,,,Industrials > Construction > Construction
+MEDANTA,Global Health Ltd,consolidated,https://www.screener.in/company/MEDANTA/consolidated/,False,10,,,Healthcare > Healthcare > Healthcare Services
+MEDPLUS,Medplus Health Services Ltd,consolidated,https://www.screener.in/company/MEDPLUS/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Retailing
+MEESHO,Meesho Ltd,consolidated,https://www.screener.in/company/MEESHO/consolidated/,False,4,,,Consumer Discretionary > Consumer Services > Retailing
+METROPOLIS,Metropolis Healthcare Ltd,consolidated,https://www.screener.in/company/METROPOLIS/consolidated/,False,12,,,Healthcare > Healthcare > Healthcare Services
+MGL,Mahanagar Gas Ltd,consolidated,https://www.screener.in/company/MGL/consolidated/,False,4,,,"Energy > Oil, Gas & Consumable Fuels > Gas"
+MHRIL,Mahindra Holidays & Resorts India Ltd,consolidated,https://www.screener.in/company/MHRIL/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+MIDHANI,Mishra Dhatu Nigam Ltd,consolidated,https://www.screener.in/company/MIDHANI/consolidated/,False,8,,,Industrials > Capital Goods > Aerospace & Defense
+MINDACORP,Minda Corporation Ltd,consolidated,https://www.screener.in/company/MINDACORP/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+MIRZAINT,Mirza International Ltd,consolidated,https://www.screener.in/company/MIRZAINT/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+MMFL,M M Forgings Ltd,consolidated,https://www.screener.in/company/MMFL/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+MMTC,MMTC Ltd,consolidated,https://www.screener.in/company/MMTC/consolidated/,False,12,,,Services > Services > Commercial Services & Supplies
+MOHITIND,Mohit Industries Ltd,consolidated,https://www.screener.in/company/MOHITIND/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+MOIL,MOIL Ltd,consolidated,https://www.screener.in/company/MOIL/consolidated/,False,6,,,Commodities > Metals & Mining > Minerals & Mining
+MOTHERSON,Samvardhana Motherson International Ltd,consolidated,https://www.screener.in/company/MOTHERSON/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+MOTOGENFIN,Motor & General Finance Ltd,consolidated,https://www.screener.in/company/MOTOGENFIN/consolidated/,False,12,,,Services > Services > Commercial Services & Supplies
+MPHASIS,Mphasis Ltd,consolidated,https://www.screener.in/company/MPHASIS/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+MPSLTD,MPS Ltd,consolidated,https://www.screener.in/company/MPSLTD/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Printing & Publication"
+MRF,MRF Ltd,consolidated,https://www.screener.in/company/MRF/consolidated/,False,13,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+MRPL,Mangalore Refinery And Petrochemicals Ltd,consolidated,https://www.screener.in/company/MRPL/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Petroleum Products"
+MSTCLTD,MSTC Ltd,consolidated,https://www.screener.in/company/MSTCLTD/consolidated/,False,12,,,Services > Services > Commercial Services & Supplies
+MSUMI,Motherson Sumi Wiring India Ltd,standalone,https://www.screener.in/company/MSUMI/,False,6,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+MTARTECH,MTAR Technologies Ltd,consolidated,https://www.screener.in/company/MTARTECH/consolidated/,False,7,,,Industrials > Capital Goods > Electrical Equipment
+MUKANDLTD,Mukand Ltd,consolidated,https://www.screener.in/company/MUKANDLTD/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+MUKTAARTS,Mukta Arts Ltd,consolidated,https://www.screener.in/company/MUKTAARTS/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+MUNJALSHOW,Munjal Showa Ltd,standalone,https://www.screener.in/company/MUNJALSHOW/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+MURUDCERA,Murudeshwar Ceramics Ltd,consolidated,https://www.screener.in/company/MURUDCERA/consolidated/,False,6,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+MUTHOOTFIN,Muthoot Finance Ltd,consolidated,https://www.screener.in/company/MUTHOOTFIN/consolidated/,True,12,,,Financial Services > Financial Services > Finance
+M&M,Mahindra & Mahindra Ltd,consolidated,https://www.screener.in/company/M&M/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Automobiles
+NAGREEKCAP,Nagreeka Capital & Infrastructure Ltd,standalone,https://www.screener.in/company/NAGREEKCAP/,False,12,,,Financial Services > Financial Services > Finance
+NAGREEKEXP,Nagreeka Exports Ltd,consolidated,https://www.screener.in/company/NAGREEKEXP/consolidated/,False,1,,,Consumer Discretionary > Textiles > Textiles & Apparels
+NAHARCAP,Nahar Capital & Financial Services Ltd,consolidated,https://www.screener.in/company/NAHARCAP/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+NAHARSPING,Nahar Spinning Mills Ltd,standalone,https://www.screener.in/company/NAHARSPING/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+NATCOPHARM,Natco Pharma Ltd,consolidated,https://www.screener.in/company/NATCOPHARM/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+NATIONALUM,National Aluminium Company Ltd,consolidated,https://www.screener.in/company/NATIONALUM/consolidated/,False,12,,,Commodities > Metals & Mining > Non - Ferrous Metals
+NAUKRI,Info Edge (India) Ltd,consolidated,https://www.screener.in/company/NAUKRI/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Retailing
+NAVA,Nava Ltd,consolidated,https://www.screener.in/company/NAVA/consolidated/,False,12,,,Utilities > Power > Power
+NAVINFLUOR,Navin Fluorine International Ltd,consolidated,https://www.screener.in/company/NAVINFLUOR/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+NAZARA,Nazara Technologies Ltd,consolidated,https://www.screener.in/company/NAZARA/consolidated/,False,11,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+NBCC,NBCC (India) Ltd,consolidated,https://www.screener.in/company/NBCC/consolidated/,False,12,,,Industrials > Construction > Construction
+NCC,NCC Ltd,consolidated,https://www.screener.in/company/NCC/consolidated/,False,12,,,Industrials > Construction > Construction
+NCLIND,NCL Industries Ltd,consolidated,https://www.screener.in/company/NCLIND/consolidated/,False,8,,,Commodities > Construction Materials > Cement & Cement Products
+NDLVENTURE,NDL Ventures Ltd,consolidated,https://www.screener.in/company/NDLVENTURE/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+NELCO,NELCO Ltd,consolidated,https://www.screener.in/company/NELCO/consolidated/,False,14,,,Information Technology > Information Technology > IT - Hardware
+NEOGEN,Neogen Chemicals Ltd,consolidated,https://www.screener.in/company/NEOGEN/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+NEPHROPLUS,Nephrocare Health Services Ltd,consolidated,https://www.screener.in/company/NEPHROPLUS/consolidated/,False,6,,,Healthcare > Healthcare > Healthcare Services
+NESTLEIND,Nestle India Ltd,consolidated,https://www.screener.in/company/NESTLEIND/consolidated/,False,5,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Food Products
+NETWEB,Netweb Technologies India Ltd,standalone,https://www.screener.in/company/NETWEB/,False,8,,,Information Technology > Information Technology > IT - Services
+NETWORK18,Network 18 Media & Investments Ltd,consolidated,https://www.screener.in/company/NETWORK18/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+NEULANDLAB,Neuland Laboratories Ltd,consolidated,https://www.screener.in/company/NEULANDLAB/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+NEWGEN,Newgen Software Technologies Ltd,consolidated,https://www.screener.in/company/NEWGEN/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+NFL,National Fertilizer Ltd,consolidated,https://www.screener.in/company/NFL/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+NH,Narayana Hrudayalaya Ltd,consolidated,https://www.screener.in/company/NH/consolidated/,False,12,,,Healthcare > Healthcare > Healthcare Services
+NHPC,NHPC Ltd,consolidated,https://www.screener.in/company/NHPC/consolidated/,False,12,,,Utilities > Power > Power
+NIBL,NRB Industrial Bearings Ltd,consolidated,https://www.screener.in/company/NIBL/consolidated/,False,10,,,Industrials > Capital Goods > Industrial Products
+NIITLTD,NIIT Ltd,consolidated,https://www.screener.in/company/NIITLTD/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Other Consumer Services
+NIPPOBATRY,Indo National Ltd,consolidated,https://www.screener.in/company/NIPPOBATRY/consolidated/,False,11,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Household Products
+NITINSPIN,Nitin Spinners Ltd,standalone,https://www.screener.in/company/NITINSPIN/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+NKIND,N K Industries Ltd,consolidated,https://www.screener.in/company/NKIND/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+NLCINDIA,NLC India Ltd,consolidated,https://www.screener.in/company/NLCINDIA/consolidated/,False,12,,,Utilities > Power > Power
+NMDC,NMDC Ltd,consolidated,https://www.screener.in/company/NMDC/consolidated/,False,12,,,Commodities > Metals & Mining > Minerals & Mining
+NOCIL,NOCIL Ltd,consolidated,https://www.screener.in/company/NOCIL/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+NOIDATOLL,Noida Toll Bridge Company Ltd,consolidated,https://www.screener.in/company/NOIDATOLL/consolidated/,False,12,,,Services > Services > Transport Infrastructure
+NORBTEAEXP,Norben Tea & Exports Ltd,standalone,https://www.screener.in/company/NORBTEAEXP/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+NSLNISP,NMDC Steel Ltd,standalone,https://www.screener.in/company/NSLNISP/,False,7,,,Commodities > Metals & Mining > Ferrous Metals
+NTPC,NTPC Ltd,consolidated,https://www.screener.in/company/NTPC/consolidated/,False,12,,,Utilities > Power > Power
+NTPCGREEN,NTPC Green Energy Ltd,consolidated,https://www.screener.in/company/NTPCGREEN/consolidated/,False,4,,,Utilities > Power > Power
+NUCLEUS,Nucleus Software Exports Ltd,consolidated,https://www.screener.in/company/NUCLEUS/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+NUVOCO,Nuvoco Vistas Corporation Ltd,consolidated,https://www.screener.in/company/NUVOCO/consolidated/,False,10,,,Commodities > Construction Materials > Cement & Cement Products
+NYKAA,FSN E-Commerce Ventures Ltd,consolidated,https://www.screener.in/company/NYKAA/consolidated/,False,9,,,Consumer Discretionary > Consumer Services > Retailing
+OBEROIRLTY,Oberoi Realty Ltd,consolidated,https://www.screener.in/company/OBEROIRLTY/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+OFSS,Oracle Financial Services Software Ltd,consolidated,https://www.screener.in/company/OFSS/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+OIL,Oil India Ltd,consolidated,https://www.screener.in/company/OIL/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Oil"
+OLAELEC,Ola Electric Mobility Ltd,consolidated,https://www.screener.in/company/OLAELEC/consolidated/,False,6,,,Consumer Discretionary > Automobile and Auto Components > Automobiles
+OLECTRA,Olectra Greentech Ltd,consolidated,https://www.screener.in/company/OLECTRA/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Automobiles
+OMAXAUTO,Omax Autos Ltd,consolidated,https://www.screener.in/company/OMAXAUTO/consolidated/,False,7,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+OMAXE,Omaxe Ltd,consolidated,https://www.screener.in/company/OMAXE/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+OMNI,Omnitech Engineering Ltd,consolidated,https://www.screener.in/company/OMNI/consolidated/,False,4,,,Industrials > Capital Goods > Industrial Manufacturing
+ONESOURCE,OneSource Specialty Pharma Ltd,consolidated,https://www.screener.in/company/ONESOURCE/consolidated/,False,6,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+ONGC,Oil & Natural Gas Corpn Ltd,consolidated,https://www.screener.in/company/ONGC/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Oil"
+ORBTEXP,Orbit Exports Ltd,consolidated,https://www.screener.in/company/ORBTEXP/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+ORIENTCER,Orient Ceratech Ltd,consolidated,https://www.screener.in/company/ORIENTCER/consolidated/,False,6,,,Industrials > Capital Goods > Industrial Products
+ORIENTPPR,Orient Paper & Industries Ltd,consolidated,https://www.screener.in/company/ORIENTPPR/consolidated/,False,5,,,"Commodities > Forest Materials > Paper, Forest & Jute Products"
+ORISSAMINE,Orissa Minerals Development Company Ltd,standalone,https://www.screener.in/company/ORISSAMINE/,False,12,,,Commodities > Metals & Mining > Minerals & Mining
+OSWALGREEN,Oswal Green Tech Ltd,consolidated,https://www.screener.in/company/OSWALGREEN/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+OSWALPUMPS,Oswal Pumps Ltd,consolidated,https://www.screener.in/company/OSWALPUMPS/consolidated/,False,5,,,Industrials > Capital Goods > Industrial Products
+PAGEIND,Page Industries Ltd,standalone,https://www.screener.in/company/PAGEIND/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+PANACEABIO,Panacea Biotec Ltd,consolidated,https://www.screener.in/company/PANACEABIO/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+PANAMAPET,Panama Petrochem Ltd,consolidated,https://www.screener.in/company/PANAMAPET/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Petroleum Products"
+PARADEEP,Paradeep Phosphates Ltd,consolidated,https://www.screener.in/company/PARADEEP/consolidated/,False,8,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+PARAS,Paras Defence and Space Technologies Ltd,consolidated,https://www.screener.in/company/PARAS/consolidated/,False,8,,,Industrials > Capital Goods > Aerospace & Defense
+PARASPETRO,Paras Petrofils Ltd,standalone,https://www.screener.in/company/PARASPETRO/,False,12,,,Financial Services > Financial Services > Finance
+PARKHOSPS,Park Medi World Ltd,consolidated,https://www.screener.in/company/PARKHOSPS/consolidated/,False,6,,,Healthcare > Healthcare > Healthcare Services
+PATANJALI,Patanjali Foods Ltd,consolidated,https://www.screener.in/company/PATANJALI/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+PATELENG,Patel Engineering Ltd,consolidated,https://www.screener.in/company/PATELENG/consolidated/,False,12,,,Industrials > Construction > Construction
+PATINTLOG,Patel Integrated Logistics Ltd,consolidated,https://www.screener.in/company/PATINTLOG/consolidated/,False,4,,,Services > Services > Transport Services
+PCBL,PCBL Chemical Ltd,consolidated,https://www.screener.in/company/PCBL/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+PCJEWELLER,PC Jeweller Ltd,consolidated,https://www.screener.in/company/PCJEWELLER/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+PDSL,PDS Ltd,consolidated,https://www.screener.in/company/PDSL/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+PERSISTENT,Persistent Systems Ltd,consolidated,https://www.screener.in/company/PERSISTENT/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+PETRONET,Petronet LNG Ltd,consolidated,https://www.screener.in/company/PETRONET/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Gas"
+PFIZER,Pfizer Ltd,consolidated,https://www.screener.in/company/PFIZER/consolidated/,False,3,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+PFOCUS,Prime Focus Ltd,consolidated,https://www.screener.in/company/PFOCUS/consolidated/,False,13,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+PGEL,PG Electroplast Ltd,consolidated,https://www.screener.in/company/PGEL/consolidated/,False,9,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+PGHH,Procter & Gamble Hygiene and Health Care Ltd,standalone,https://www.screener.in/company/PGHH/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Personal Products
+PGHL,Procter & Gamble Health Ltd,standalone,https://www.screener.in/company/PGHL/,False,14,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+PGIL,Pearl Global Industries Ltd,consolidated,https://www.screener.in/company/PGIL/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+PHOENIXLTD,Phoenix Mills Ltd,consolidated,https://www.screener.in/company/PHOENIXLTD/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+PICCADIL,Piccadily Agro Industries Ltd,consolidated,https://www.screener.in/company/PICCADIL/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Beverages
+PIDILITIND,Pidilite Industries Ltd,consolidated,https://www.screener.in/company/PIDILITIND/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+PIIND,P I Industries Ltd,consolidated,https://www.screener.in/company/PIIND/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+PILITA,Pil Italica Lifestyle Ltd,standalone,https://www.screener.in/company/PILITA/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+PITTIENG,Pitti Engineering Ltd,consolidated,https://www.screener.in/company/PITTIENG/consolidated/,False,7,,,Industrials > Capital Goods > Industrial Manufacturing
+PLASTIBLEN,Plastiblends India Ltd,standalone,https://www.screener.in/company/PLASTIBLEN/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+PNBGILTS,PNB Gilts Ltd,standalone,https://www.screener.in/company/PNBGILTS/,False,12,,,Financial Services > Financial Services > Finance
+PNC,PNC Media and Entertainment Ltd,consolidated,https://www.screener.in/company/PNC/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+PNCINFRA,PNC Infratech Ltd,consolidated,https://www.screener.in/company/PNCINFRA/consolidated/,False,12,,,Industrials > Construction > Construction
+PNGJL,P N Gadgil Jewellers Ltd,consolidated,https://www.screener.in/company/PNGJL/consolidated/,False,7,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+POLYCAB,Polycab India Ltd,consolidated,https://www.screener.in/company/POLYCAB/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+POLYMED,Poly Medicure Ltd,consolidated,https://www.screener.in/company/POLYMED/consolidated/,False,12,,,Healthcare > Healthcare > Healthcare Equipment & Supplies
+POLYPLEX,Polyplex Corporation Ltd,consolidated,https://www.screener.in/company/POLYPLEX/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+PONNIERODE,Ponni Sugars (Erode) Ltd,standalone,https://www.screener.in/company/PONNIERODE/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+POWERGRID,Power Grid Corporation of India Ltd,consolidated,https://www.screener.in/company/POWERGRID/consolidated/,False,12,,,Utilities > Power > Power
+POWERICA,Powerica Ltd,consolidated,https://www.screener.in/company/POWERICA/consolidated/,False,6,,,Industrials > Capital Goods > Electrical Equipment
+POWERINDIA,Hitachi Energy India Ltd,standalone,https://www.screener.in/company/POWERINDIA/,False,9,,,Industrials > Capital Goods > Electrical Equipment
+POWERMECH,Power Mech Projects Ltd,consolidated,https://www.screener.in/company/POWERMECH/consolidated/,False,12,,,Industrials > Construction > Construction
+PPAP,PPAP Automotive Ltd,consolidated,https://www.screener.in/company/PPAP/consolidated/,False,11,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+PPLPHARMA,Piramal Pharma Ltd,consolidated,https://www.screener.in/company/PPLPHARMA/consolidated/,False,6,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+PRAJIND,Praj Industries Ltd,consolidated,https://www.screener.in/company/PRAJIND/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Manufacturing
+PRAKASHSTL,Prakash Steelage Ltd,consolidated,https://www.screener.in/company/PRAKASHSTL/consolidated/,False,3,,,Industrials > Capital Goods > Industrial Products
+PRECWIRE,Precision Wires India Ltd,consolidated,https://www.screener.in/company/PRECWIRE/consolidated/,False,2,,,Industrials > Capital Goods > Industrial Products
+PREMIERENE,Premier Energies Ltd,consolidated,https://www.screener.in/company/PREMIERENE/consolidated/,False,7,,,Industrials > Capital Goods > Electrical Equipment
+PREMIERPOL,Premier Polyfilm Ltd,standalone,https://www.screener.in/company/PREMIERPOL/,False,12,,,Industrials > Capital Goods > Industrial Products
+PRESTIGE,Prestige Estates Projects Ltd,consolidated,https://www.screener.in/company/PRESTIGE/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+PRICOLLTD,Pricol Ltd,consolidated,https://www.screener.in/company/PRICOLLTD/consolidated/,False,10,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+PRIVISCL,Privi Speciality Chemicals Ltd,consolidated,https://www.screener.in/company/PRIVISCL/consolidated/,False,10,,,Commodities > Chemicals > Chemicals & Petrochemicals
+PRSMJOHNSN,Prism Johnson Ltd,consolidated,https://www.screener.in/company/PRSMJOHNSN/consolidated/,False,12,,,Commodities > Construction Materials > Cement & Cement Products
+PTC,PTC India Ltd,consolidated,https://www.screener.in/company/PTC/consolidated/,False,12,,,Utilities > Power > Power
+PTCIL,PTC Industries Ltd,consolidated,https://www.screener.in/company/PTCIL/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+PTL,PTL Enterprises Ltd,consolidated,https://www.screener.in/company/PTL/consolidated/,False,11,,,Services > Services > Commercial Services & Supplies
+PUNJABCHEM,Punjab Chemicals & Crop Protection Ltd,consolidated,https://www.screener.in/company/PUNJABCHEM/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+PURVA,Puravankara Ltd,consolidated,https://www.screener.in/company/PURVA/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+PVRINOX,PVR Inox Ltd,consolidated,https://www.screener.in/company/PVRINOX/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+PWL,Physicswallah Ltd,consolidated,https://www.screener.in/company/PWL/consolidated/,False,5,,,Consumer Discretionary > Consumer Services > Other Consumer Services
+QPOWER,Quality Power Electrical Equipments Ltd,consolidated,https://www.screener.in/company/QPOWER/consolidated/,False,5,,,Industrials > Capital Goods > Electrical Equipment
+QUESS,Quess Corp Ltd,consolidated,https://www.screener.in/company/QUESS/consolidated/,False,13,,,Services > Services > Commercial Services & Supplies
+RADAAN,Radaan Mediaworks (I) Ltd,consolidated,https://www.screener.in/company/RADAAN/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+RADICO,Radico Khaitan Ltd,consolidated,https://www.screener.in/company/RADICO/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Beverages
+RAILTEL,Railtel Corporation of India Ltd,consolidated,https://www.screener.in/company/RAILTEL/consolidated/,False,10,,,Telecommunication > Telecommunication > Telecom - Services
+RAIN,Rain Industries Ltd,consolidated,https://www.screener.in/company/RAIN/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+RAINBOW,Rainbow Childrens Medicare Ltd,consolidated,https://www.screener.in/company/RAINBOW/consolidated/,False,12,,,Healthcare > Healthcare > Healthcare Services
+RALLIS,Rallis India Ltd,consolidated,https://www.screener.in/company/RALLIS/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+RAMANEWS,Shree Rama Newsprint Ltd,standalone,https://www.screener.in/company/RAMANEWS/,False,12,,,"Commodities > Forest Materials > Paper, Forest & Jute Products"
+RAMCOCEM,The Ramco Cements Ltd,consolidated,https://www.screener.in/company/RAMCOCEM/consolidated/,False,12,,,Commodities > Construction Materials > Cement & Cement Products
+RAMCOSYS,Ramco Systems Ltd,consolidated,https://www.screener.in/company/RAMCOSYS/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+RAMKY,Ramky Infrastructure Ltd,consolidated,https://www.screener.in/company/RAMKY/consolidated/,False,12,,,Industrials > Construction > Construction
+RANEHOLDIN,Rane Holdings Ltd,consolidated,https://www.screener.in/company/RANEHOLDIN/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+RATEGAIN,Rategain Travel Technologies Ltd,consolidated,https://www.screener.in/company/RATEGAIN/consolidated/,False,8,,,Information Technology > Information Technology > IT - Software
+RATNAMANI,Ratnamani Metals & Tubes Ltd,consolidated,https://www.screener.in/company/RATNAMANI/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+RAYMOND,Raymond Ltd,consolidated,https://www.screener.in/company/RAYMOND/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Manufacturing
+RAYMONDLSL,Raymond Lifestyle Ltd,consolidated,https://www.screener.in/company/RAYMONDLSL/consolidated/,False,3,,,Consumer Discretionary > Textiles > Textiles & Apparels
+RBA,Restaurant Brands Asia Ltd,consolidated,https://www.screener.in/company/RBA/consolidated/,False,6,,,Consumer Discretionary > Consumer Services > Leisure Services
+RCF,Rashtriya Chemicals & Fertilizers Ltd,consolidated,https://www.screener.in/company/RCF/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+RCOM,Reliance Communications Ltd,consolidated,https://www.screener.in/company/RCOM/consolidated/,False,12,,,Telecommunication > Telecommunication > Telecom - Services
+REDINGTON,Redington Ltd,consolidated,https://www.screener.in/company/REDINGTON/consolidated/,False,12,,,Services > Services > Commercial Services & Supplies
+REFEX,Refex Industries Ltd,consolidated,https://www.screener.in/company/REFEX/consolidated/,False,11,,,Utilities > Utilities > Other Utilities
+REGENCERAM,Regency Ceramics Ltd,standalone,https://www.screener.in/company/REGENCERAM/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+RELAXO,Relaxo Footwears Ltd,standalone,https://www.screener.in/company/RELAXO/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+RELCAPITAL,Reliance Capital Ltd,consolidated,https://www.screener.in/company/RELCAPITAL/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+RELIANCE,Reliance Industries Ltd,consolidated,https://www.screener.in/company/RELIANCE/consolidated/,False,12,,,"Energy > Oil, Gas & Consumable Fuels > Petroleum Products"
+RELINFRA,Reliance Infrastructure Ltd,consolidated,https://www.screener.in/company/RELINFRA/consolidated/,False,12,,,Utilities > Power > Power
+REMSONSIND,Remsons Industries Ltd,consolidated,https://www.screener.in/company/REMSONSIND/consolidated/,False,6,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+RENUKA,Shree Renuka Sugars Ltd,consolidated,https://www.screener.in/company/RENUKA/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+REPRO,Repro India Ltd,consolidated,https://www.screener.in/company/REPRO/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Printing & Publication"
+RESPONIND,Responsive Industries Ltd,consolidated,https://www.screener.in/company/RESPONIND/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+RHIM,RHI Magnesita India Ltd,consolidated,https://www.screener.in/company/RHIM/consolidated/,False,8,,,Industrials > Capital Goods > Industrial Products
+RICOAUTO,Rico Auto Industries Ltd,consolidated,https://www.screener.in/company/RICOAUTO/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+RIIL,Reliance Industrial Infrastructure Ltd,consolidated,https://www.screener.in/company/RIIL/consolidated/,False,12,,,Services > Services > Transport Services
+RITES,Rites Ltd,consolidated,https://www.screener.in/company/RITES/consolidated/,False,12,,,Industrials > Construction > Construction
+RKDL,Ravikumar Distilleries Ltd,standalone,https://www.screener.in/company/RKDL/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Beverages
+RKFORGE,Ramkrishna Forgings Ltd,consolidated,https://www.screener.in/company/RKFORGE/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+RML,Rane (Madras) Ltd,consolidated,https://www.screener.in/company/RML/consolidated/,False,11,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+ROLTA,Rolta India Ltd,consolidated,https://www.screener.in/company/ROLTA/consolidated/,False,13,,,Information Technology > Information Technology > IT - Services
+ROSSELLIND,Rossell India Ltd,consolidated,https://www.screener.in/company/ROSSELLIND/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+ROUTE,Route Mobile Ltd,consolidated,https://www.screener.in/company/ROUTE/consolidated/,False,11,,,Telecommunication > Telecommunication > Telecom - Services
+RPGLIFE,RPG Life Sciences Ltd,consolidated,https://www.screener.in/company/RPGLIFE/consolidated/,False,2,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+RPOWER,Reliance Power Ltd,consolidated,https://www.screener.in/company/RPOWER/consolidated/,False,12,,,Utilities > Power > Power
+RPPINFRA,RPP Infra Projects Ltd,consolidated,https://www.screener.in/company/RPPINFRA/consolidated/,False,12,,,Industrials > Construction > Construction
+RRKABEL,R R Kabel Ltd,consolidated,https://www.screener.in/company/RRKABEL/consolidated/,False,7,,,Industrials > Capital Goods > Industrial Products
+RSWM,RSWM Ltd,consolidated,https://www.screener.in/company/RSWM/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+RSYSTEMS,R Systems International Ltd,consolidated,https://www.screener.in/company/RSYSTEMS/consolidated/,False,12,,,Information Technology > Information Technology > IT - Services
+RTNPOWER,RattanIndia Power Ltd,consolidated,https://www.screener.in/company/RTNPOWER/consolidated/,False,12,,,Utilities > Power > Power
+RUBICON,Rubicon Research Ltd,consolidated,https://www.screener.in/company/RUBICON/consolidated/,False,7,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+RUPA,Rupa & Company Ltd,consolidated,https://www.screener.in/company/RUPA/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+RUSHIL,Rushil Decor Ltd,consolidated,https://www.screener.in/company/RUSHIL/consolidated/,False,2,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+RVNL,Rail Vikas Nigam Ltd,consolidated,https://www.screener.in/company/RVNL/consolidated/,False,12,,,Industrials > Construction > Construction
+SAFARI,Safari Industries (India) Ltd,consolidated,https://www.screener.in/company/SAFARI/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+SAGILITY,Sagility Ltd,consolidated,https://www.screener.in/company/SAGILITY/consolidated/,False,6,,,Information Technology > Information Technology > IT - Services
+SAIL,Steel Authority of India Ltd,consolidated,https://www.screener.in/company/SAIL/consolidated/,False,12,,,Commodities > Metals & Mining > Ferrous Metals
+SAILIFE,Sai Life Sciences Ltd,consolidated,https://www.screener.in/company/SAILIFE/consolidated/,False,8,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+SAKUMA,Sakuma Exports Ltd,consolidated,https://www.screener.in/company/SAKUMA/consolidated/,False,12,,,Services > Services > Commercial Services & Supplies
+SAMHI,Samhi Hotels Ltd,consolidated,https://www.screener.in/company/SAMHI/consolidated/,False,8,,,Consumer Discretionary > Consumer Services > Leisure Services
+SANDESH,Sandesh Ltd,consolidated,https://www.screener.in/company/SANDESH/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Media"
+SANDUMA,Sandur Manganese & Iron Ores Ltd,consolidated,https://www.screener.in/company/SANDUMA/consolidated/,False,13,,,Commodities > Metals & Mining > Ferrous Metals
+SANGAMIND,Sangam (India) Ltd,consolidated,https://www.screener.in/company/SANGAMIND/consolidated/,False,10,,,Consumer Discretionary > Textiles > Textiles & Apparels
+SANOFI,Sanofi India Ltd,consolidated,https://www.screener.in/company/SANOFI/consolidated/,False,2,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+SANSERA,Sansera Engineering Ltd,consolidated,https://www.screener.in/company/SANSERA/consolidated/,False,8,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+SAPPHIRE,Sapphire Foods India Ltd,consolidated,https://www.screener.in/company/SAPPHIRE/consolidated/,False,9,,,Consumer Discretionary > Consumer Services > Leisure Services
+SARDAEN,Sarda Energy & Minerals Ltd,consolidated,https://www.screener.in/company/SARDAEN/consolidated/,False,12,,,Commodities > Metals & Mining > Ferrous Metals
+SAREGAMA,Saregama India Ltd,consolidated,https://www.screener.in/company/SAREGAMA/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+SARLAPOLY,Sarla Performance Fibers Ltd,consolidated,https://www.screener.in/company/SARLAPOLY/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+SASKEN,Sasken Technologies Ltd,consolidated,https://www.screener.in/company/SASKEN/consolidated/,False,12,,,Information Technology > Information Technology > IT - Services
+SCHAEFFLER,Schaeffler India Ltd,consolidated,https://www.screener.in/company/SCHAEFFLER/consolidated/,False,4,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+SCHNEIDER,Schneider Electric Infrastructure Ltd,standalone,https://www.screener.in/company/SCHNEIDER/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+SCI,Shipping Corporation of India Ltd,consolidated,https://www.screener.in/company/SCI/consolidated/,False,12,,,Services > Services > Transport Services
+SEAMECLTD,SEAMEC Ltd,consolidated,https://www.screener.in/company/SEAMECLTD/consolidated/,False,12,,,Services > Services > Transport Services
+SEDEMAC,Sedemac Mechatronics Ltd,standalone,https://www.screener.in/company/SEDEMAC/,False,6,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+SENCO,Senco Gold Ltd,consolidated,https://www.screener.in/company/SENCO/consolidated/,False,8,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+SENORES,Senores Pharmaceuticals Ltd,consolidated,https://www.screener.in/company/SENORES/consolidated/,False,5,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+SFL,Sheela Foam Ltd,consolidated,https://www.screener.in/company/SFL/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+SGL,STL Global Ltd,consolidated,https://www.screener.in/company/SGL/consolidated/,False,0,,no parsable annual statements on source page,Consumer Discretionary > Textiles > Textiles & Apparels
+SGMART,SG Mart Ltd,consolidated,https://www.screener.in/company/SGMART/consolidated/,False,7,,,Commodities > Metals & Mining > Metals & Minerals Trading
+SHADOWFAX,Shadowfax Technologies Ltd,consolidated,https://www.screener.in/company/SHADOWFAX/consolidated/,False,4,,,Services > Services > Transport Services
+SHAH,Shah Metacorp Ltd,consolidated,https://www.screener.in/company/SHAH/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+SHAILY,Shaily Engineering Plastics Ltd,consolidated,https://www.screener.in/company/SHAILY/consolidated/,False,5,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+SHAKTIPUMP,Shakti Pumps (India) Ltd,consolidated,https://www.screener.in/company/SHAKTIPUMP/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+SHANTIGEAR,Shanthi Gears Ltd,standalone,https://www.screener.in/company/SHANTIGEAR/,False,12,,,Industrials > Capital Goods > Industrial Manufacturing
+SHARDACROP,Sharda Cropchem Ltd,consolidated,https://www.screener.in/company/SHARDACROP/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+SHILCTECH,Shilchar Technologies Ltd,standalone,https://www.screener.in/company/SHILCTECH/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+SHILPAMED,Shilpa Medicare Ltd,consolidated,https://www.screener.in/company/SHILPAMED/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+SHIVAMAUTO,Shivam Autotech Ltd,standalone,https://www.screener.in/company/SHIVAMAUTO/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+SHOPERSTOP,Shoppers Stop Ltd,consolidated,https://www.screener.in/company/SHOPERSTOP/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Retailing
+SHREECEM,Shree Cement Ltd,consolidated,https://www.screener.in/company/SHREECEM/consolidated/,False,13,,,Commodities > Construction Materials > Cement & Cement Products
+SHREEJISPG,Shreeji Shipping Global Ltd,consolidated,https://www.screener.in/company/SHREEJISPG/consolidated/,False,5,,,Services > Services > Transport Services
+SHRIPISTON,SPR Auto Technologies Ltd,consolidated,https://www.screener.in/company/SHRIPISTON/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+SHRIRAMFIN,Shriram Finance Ltd,consolidated,https://www.screener.in/company/SHRIRAMFIN/consolidated/,True,12,,,Financial Services > Financial Services > Finance
+SHYAMMETL,Shyam Metalics & Energy Ltd,consolidated,https://www.screener.in/company/SHYAMMETL/consolidated/,False,9,,,Industrials > Capital Goods > Industrial Products
+SHYAMTEL,Shyam Telecom Ltd,consolidated,https://www.screener.in/company/SHYAMTEL/consolidated/,False,10,,,Services > Services > Commercial Services & Supplies
+SIEMENS,Siemens Ltd,consolidated,https://www.screener.in/company/SIEMENS/consolidated/,False,14,,,Industrials > Capital Goods > Electrical Equipment
+SIGMAADV,Sigma Advanced System Ltd,consolidated,https://www.screener.in/company/SIGMAADV/consolidated/,False,13,,,Industrials > Capital Goods > Aerospace & Defense
+SIGNATURE,SignatureGlobal India Ltd,consolidated,https://www.screener.in/company/SIGNATURE/consolidated/,False,7,,,Consumer Discretionary > Realty > Realty
+SIL,Standard Industries Ltd,consolidated,https://www.screener.in/company/SIL/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+SILINV,SIL Investments Ltd,consolidated,https://www.screener.in/company/SILINV/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+SIMPLEXINF,Simplex Infrastructures Ltd,consolidated,https://www.screener.in/company/SIMPLEXINF/consolidated/,False,12,,,Industrials > Construction > Construction
+SINTEX,Sintex Industries Ltd,consolidated,https://www.screener.in/company/SINTEX/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+SJS,S J S Enterprises Ltd,consolidated,https://www.screener.in/company/SJS/consolidated/,False,5,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+SJVN,SJVN Ltd,consolidated,https://www.screener.in/company/SJVN/consolidated/,False,12,,,Utilities > Power > Power
+SKFINDIA,SKF India Ltd,consolidated,https://www.screener.in/company/SKFINDIA/consolidated/,False,6,,,Industrials > Capital Goods > Industrial Products
+SKIPPER,Skipper Ltd,consolidated,https://www.screener.in/company/SKIPPER/consolidated/,False,8,,,Industrials > Capital Goods > Electrical Equipment
+SKYGOLD,Sky Gold & Diamonds Ltd,consolidated,https://www.screener.in/company/SKYGOLD/consolidated/,False,5,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+SMARTLINK,Smartlink Holdings Ltd,consolidated,https://www.screener.in/company/SMARTLINK/consolidated/,False,12,,,Information Technology > Information Technology > IT - Hardware
+SMLMAH,SML Mahindra Ltd,standalone,https://www.screener.in/company/SMLMAH/,False,12,,,"Industrials > Capital Goods > Agricultural, Commercial & Construction Vehicles"
+SMSPHARMA,SMS Pharmaceuticals Ltd,consolidated,https://www.screener.in/company/SMSPHARMA/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+SOBHA,Sobha Ltd,consolidated,https://www.screener.in/company/SOBHA/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+SOLARINDS,Solar Industries India Ltd,consolidated,https://www.screener.in/company/SOLARINDS/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+SOMANYCERA,Somany Ceramics Ltd,consolidated,https://www.screener.in/company/SOMANYCERA/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+SONACOMS,Sona BLW Precision Forgings Ltd,consolidated,https://www.screener.in/company/SONACOMS/consolidated/,False,9,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+SONATSOFTW,Sonata Software Ltd,consolidated,https://www.screener.in/company/SONATSOFTW/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+SPARC,Sun Pharma Advanced Research Company Ltd,consolidated,https://www.screener.in/company/SPARC/consolidated/,False,4,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+SPIC,Southern Petrochemicals Industries Corporation Ltd,consolidated,https://www.screener.in/company/SPIC/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+SPLPETRO,Supreme Petrochem Ltd,consolidated,https://www.screener.in/company/SPLPETRO/consolidated/,False,6,,,Commodities > Chemicals > Chemicals & Petrochemicals
+SRF,SRF Ltd,consolidated,https://www.screener.in/company/SRF/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+SRHHYPOLTD,Sree Rayalaseema Hi-Strength Hypo Ltd,consolidated,https://www.screener.in/company/SRHHYPOLTD/consolidated/,False,9,,,Commodities > Chemicals > Chemicals & Petrochemicals
+STAR,Strides Pharma Science Ltd,consolidated,https://www.screener.in/company/STAR/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+STERTOOLS,Sterling Tools Ltd,consolidated,https://www.screener.in/company/STERTOOLS/consolidated/,False,11,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+STLTECH,Sterlite Technologies Ltd,consolidated,https://www.screener.in/company/STLTECH/consolidated/,False,12,,,Telecommunication > Telecommunication > Telecom -  Equipment & Accessories
+STYLAMIND,Stylam Industries Ltd,consolidated,https://www.screener.in/company/STYLAMIND/consolidated/,False,8,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+STYRENIX,Styrenix Performance Materials Ltd,consolidated,https://www.screener.in/company/STYRENIX/consolidated/,False,5,,,Commodities > Chemicals > Chemicals & Petrochemicals
+SUBROS,Subros Ltd,consolidated,https://www.screener.in/company/SUBROS/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+SUDARSCHEM,Sudarshan Chemical Industries Ltd,consolidated,https://www.screener.in/company/SUDARSCHEM/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+SUDEEPPHRM,Sudeep Pharma Ltd,consolidated,https://www.screener.in/company/SUDEEPPHRM/consolidated/,False,7,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+SUMICHEM,Sumitomo Chemical India Ltd,consolidated,https://www.screener.in/company/SUMICHEM/consolidated/,False,9,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+SUNDRMBRAK,Sundaram Brake Linings Ltd,standalone,https://www.screener.in/company/SUNDRMBRAK/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+SUNDRMFAST,Sundram Fasteners Ltd,consolidated,https://www.screener.in/company/SUNDRMFAST/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+SUNFLAG,Sunflag Iron & Steel Company Ltd,consolidated,https://www.screener.in/company/SUNFLAG/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+SUNPHARMA,Sun Pharmaceutical Industries Ltd,consolidated,https://www.screener.in/company/SUNPHARMA/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+SUNTECK,Sunteck Realty Ltd,consolidated,https://www.screener.in/company/SUNTECK/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+SUNTV,Sun TV Network Ltd,consolidated,https://www.screener.in/company/SUNTV/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+SUPRAJIT,Suprajit Engineering Ltd,consolidated,https://www.screener.in/company/SUPRAJIT/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+SUPREMEIND,Supreme Industries Ltd,consolidated,https://www.screener.in/company/SUPREMEIND/consolidated/,False,13,,,Industrials > Capital Goods > Industrial Products
+SUPREMEINF,Supreme Infrastructure India Ltd,consolidated,https://www.screener.in/company/SUPREMEINF/consolidated/,False,12,,,Industrials > Construction > Construction
+SUPRIYA,Supriya Lifescience Ltd,standalone,https://www.screener.in/company/SUPRIYA/,False,10,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+SURYALAXMI,Suryalakshmi Cotton Mills Ltd,consolidated,https://www.screener.in/company/SURYALAXMI/consolidated/,False,8,,,Consumer Discretionary > Textiles > Textiles & Apparels
+SURYAROSNI,Surya Roshni Ltd,consolidated,https://www.screener.in/company/SURYAROSNI/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+SUTLEJTEX,Sutlej Textiles and Industries Ltd,consolidated,https://www.screener.in/company/SUTLEJTEX/consolidated/,False,9,,,Consumer Discretionary > Textiles > Textiles & Apparels
+SUVEN,Suven Life Sciences Ltd,consolidated,https://www.screener.in/company/SUVEN/consolidated/,False,12,,,Healthcare > Healthcare > Healthcare Services
+SUZLON,Suzlon Energy Ltd,consolidated,https://www.screener.in/company/SUZLON/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+SWANCORP,Swan Corp Ltd,consolidated,https://www.screener.in/company/SWANCORP/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+SWELECTES,Swelect Energy Systems Ltd,consolidated,https://www.screener.in/company/SWELECTES/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+SWIGGY,Swiggy Ltd,consolidated,https://www.screener.in/company/SWIGGY/consolidated/,False,7,,,Consumer Discretionary > Consumer Services > Retailing
+SWSOLAR,Sterling & Wilson Renewable Energy Ltd,consolidated,https://www.screener.in/company/SWSOLAR/consolidated/,False,10,,,Industrials > Construction > Construction
+SYMPHONY,Symphony Ltd,consolidated,https://www.screener.in/company/SYMPHONY/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+SYNGENE,Syngene International Ltd,consolidated,https://www.screener.in/company/SYNGENE/consolidated/,False,9,,,Healthcare > Healthcare > Healthcare Services
+SYRMA,Syrma SGS Technology Ltd,consolidated,https://www.screener.in/company/SYRMA/consolidated/,False,7,,,Industrials > Capital Goods > Industrial Manufacturing
+S&SPOWER,S & S Power Switchgear Ltd,consolidated,https://www.screener.in/company/S&SPOWER/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+TAKE,Take Ltd,consolidated,https://www.screener.in/company/TAKE/consolidated/,False,12,,,Healthcare > Healthcare > Healthcare Services
+TALBROAUTO,Talbros Automotive Components Ltd,consolidated,https://www.screener.in/company/TALBROAUTO/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+TANLA,Tanla Platforms Ltd,consolidated,https://www.screener.in/company/TANLA/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+TARC,TARC Ltd,consolidated,https://www.screener.in/company/TARC/consolidated/,False,7,,,Consumer Discretionary > Realty > Realty
+TARIL,Transformers & Rectifiers India Ltd,consolidated,https://www.screener.in/company/TARIL/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+TARMAT,Tarmat Ltd,consolidated,https://www.screener.in/company/TARMAT/consolidated/,False,12,,,Industrials > Construction > Construction
+TATACHEM,Tata Chemicals Ltd,consolidated,https://www.screener.in/company/TATACHEM/consolidated/,False,12,,,Commodities > Chemicals > Chemicals & Petrochemicals
+TATACOMM,Tata Communications Ltd,consolidated,https://www.screener.in/company/TATACOMM/consolidated/,False,12,,,Telecommunication > Telecommunication > Telecom - Services
+TATACONSUM,Tata Consumer Products Ltd,consolidated,https://www.screener.in/company/TATACONSUM/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+TATAELXSI,Tata Elxsi Ltd,consolidated,https://www.screener.in/company/TATAELXSI/consolidated/,False,8,,,Information Technology > Information Technology > IT - Software
+TATAPOWER,Tata Power Company Ltd,consolidated,https://www.screener.in/company/TATAPOWER/consolidated/,False,12,,,Utilities > Power > Power
+TATASTEEL,Tata Steel Ltd,consolidated,https://www.screener.in/company/TATASTEEL/consolidated/,False,12,,,Commodities > Metals & Mining > Ferrous Metals
+TATATECH,Tata Technologies Ltd,consolidated,https://www.screener.in/company/TATATECH/consolidated/,False,8,,,Information Technology > Information Technology > IT - Services
+TBOTEK,TBO Tek Ltd,consolidated,https://www.screener.in/company/TBOTEK/consolidated/,False,9,,,Consumer Discretionary > Consumer Services > Leisure Services
+TCI,Transport Corporation of India Ltd,consolidated,https://www.screener.in/company/TCI/consolidated/,False,12,,,Services > Services > Transport Services
+TCIFINANCE,TCI Finance Ltd,consolidated,https://www.screener.in/company/TCIFINANCE/consolidated/,True,12,,,Financial Services > Financial Services > Finance
+TCS,Tata Consultancy Services Ltd,consolidated,https://www.screener.in/company/TCS/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+TDPOWERSYS,TD Power Systems Ltd,consolidated,https://www.screener.in/company/TDPOWERSYS/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+TEAMGTY,Team India Guaranty Ltd,consolidated,https://www.screener.in/company/TEAMGTY/consolidated/,True,2,,,Financial Services > Financial Services > Finance
+TECHM,Tech Mahindra Ltd,consolidated,https://www.screener.in/company/TECHM/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+TECHNOE,Techno Electric & Engineering Company Ltd,consolidated,https://www.screener.in/company/TECHNOE/consolidated/,False,10,,,Industrials > Construction > Construction
+TECILCHEM,TECIL Chemical & Hydro Power Ltd,consolidated,https://www.screener.in/company/TECILCHEM/consolidated/,False,2,,,Commodities > Chemicals > Chemicals & Petrochemicals
+TEGA,Tega Industries Ltd,consolidated,https://www.screener.in/company/TEGA/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Manufacturing
+TEJASNET,Tejas Networks Ltd,consolidated,https://www.screener.in/company/TEJASNET/consolidated/,False,12,,,Telecommunication > Telecommunication > Telecom -  Equipment & Accessories
+TENNIND,Tenneco Clean Air India Ltd,consolidated,https://www.screener.in/company/TENNIND/consolidated/,False,4,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+TEXINFRA,Texmaco Infrastructure & Holdings Ltd,consolidated,https://www.screener.in/company/TEXINFRA/consolidated/,False,12,,,Services > Services > Commercial Services & Supplies
+TEXMOPIPES,Texmo Pipes & Products Ltd,consolidated,https://www.screener.in/company/TEXMOPIPES/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+TEXRAIL,Texmaco Rail & Engineering Ltd,consolidated,https://www.screener.in/company/TEXRAIL/consolidated/,False,11,,,Industrials > Capital Goods > Industrial Manufacturing
+THANGAMAYL,Thangamayil Jewellery Ltd,standalone,https://www.screener.in/company/THANGAMAYL/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+THELEELA,Leela Palaces Hotels & Resorts Ltd,consolidated,https://www.screener.in/company/THELEELA/consolidated/,False,4,,,Consumer Discretionary > Consumer Services > Leisure Services
+THERMAX,Thermax Ltd,consolidated,https://www.screener.in/company/THERMAX/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+THOMASCOOK,Thomas Cook (India) Ltd,consolidated,https://www.screener.in/company/THOMASCOOK/consolidated/,False,13,,,Consumer Discretionary > Consumer Services > Leisure Services
+THOMASCOTT,Thomas Scott India Ltd,standalone,https://www.screener.in/company/THOMASCOTT/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+THYROCARE,Thyrocare Technologies Ltd,consolidated,https://www.screener.in/company/THYROCARE/consolidated/,False,12,,,Healthcare > Healthcare > Healthcare Services
+TI,Tilaknagar Industries Ltd,consolidated,https://www.screener.in/company/TI/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Beverages
+TIIL,Technocraft Industries (India) Ltd,consolidated,https://www.screener.in/company/TIIL/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+TIINDIA,Tube Investments of India Ltd,consolidated,https://www.screener.in/company/TIINDIA/consolidated/,False,11,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+TIMETECHNO,Time Technoplast Ltd,consolidated,https://www.screener.in/company/TIMETECHNO/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+TIMEX,Timex Group India Ltd,standalone,https://www.screener.in/company/TIMEX/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+TIMKEN,Timken India Ltd,consolidated,https://www.screener.in/company/TIMKEN/consolidated/,False,2,,,Industrials > Capital Goods > Industrial Products
+TIPSMUSIC,Tips Music Ltd,standalone,https://www.screener.in/company/TIPSMUSIC/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+TITAGARH,Titagarh Rail Systems Ltd,consolidated,https://www.screener.in/company/TITAGARH/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Manufacturing
+TITAN,Titan Company Ltd,consolidated,https://www.screener.in/company/TITAN/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+TMCV,Tata Motors Ltd,consolidated,https://www.screener.in/company/TMCV/consolidated/,False,3,,,"Industrials > Capital Goods > Agricultural, Commercial & Construction Vehicles"
+TMPV,Tata Motors Passenger Vehicles Ltd,consolidated,https://www.screener.in/company/TMPV/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Automobiles
+TNPL,Tamil Nadu Newsprint & Papers Ltd,standalone,https://www.screener.in/company/TNPL/,False,12,,,"Commodities > Forest Materials > Paper, Forest & Jute Products"
+TORNTPHARM,Torrent Pharmaceuticals Ltd,consolidated,https://www.screener.in/company/TORNTPHARM/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+TORNTPOWER,Torrent Power Ltd,consolidated,https://www.screener.in/company/TORNTPOWER/consolidated/,False,12,,,Utilities > Power > Power
+TRANSRAILL,Transrail Lighting Ltd,consolidated,https://www.screener.in/company/TRANSRAILL/consolidated/,False,7,,,Industrials > Capital Goods > Electrical Equipment
+TRANSWORLD,Transworld Shipping Lines Ltd,consolidated,https://www.screener.in/company/TRANSWORLD/consolidated/,False,12,,,Services > Services > Transport Services
+TRENT,Trent Ltd,consolidated,https://www.screener.in/company/TRENT/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Retailing
+TRF,TRF Ltd,consolidated,https://www.screener.in/company/TRF/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Manufacturing
+TRIDENT,Trident Ltd,consolidated,https://www.screener.in/company/TRIDENT/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+TRITURBINE,Triveni Turbine Ltd,consolidated,https://www.screener.in/company/TRITURBINE/consolidated/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+TRIVENIPT,Triveni Power Transmission Ltd,consolidated,https://www.screener.in/company/TRIVENIPT/consolidated/,False,3,,,Utilities > Power > Power
+TTKPRESTIG,TTK Prestige Ltd,consolidated,https://www.screener.in/company/TTKPRESTIG/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+TTL,T T Ltd,standalone,https://www.screener.in/company/TTL/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+TTML,Tata Teleservices (Maharashtra) Ltd,consolidated,https://www.screener.in/company/TTML/consolidated/,False,3,,,Telecommunication > Telecommunication > Telecom - Services
+TVSELECT,TVS Electronics Ltd,consolidated,https://www.screener.in/company/TVSELECT/consolidated/,False,12,,,Information Technology > Information Technology > IT - Hardware
+TVSHLTD,TVS Holdings Ltd,consolidated,https://www.screener.in/company/TVSHLTD/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+TVSMOTOR,TVS Motor Company Ltd,consolidated,https://www.screener.in/company/TVSMOTOR/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Automobiles
+TVSSCS,TVS Supply Chain Solutions Ltd,consolidated,https://www.screener.in/company/TVSSCS/consolidated/,False,8,,,Services > Services > Transport Services
+TVSSRICHAK,TVS Srichakra Ltd,consolidated,https://www.screener.in/company/TVSSRICHAK/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+TVTODAY,T.V. Today Network Ltd,consolidated,https://www.screener.in/company/TVTODAY/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+UBL,United Breweries Ltd,consolidated,https://www.screener.in/company/UBL/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Beverages
+ULTRACEMCO,UltraTech Cement Ltd,consolidated,https://www.screener.in/company/ULTRACEMCO/consolidated/,False,12,,,Commodities > Construction Materials > Cement & Cement Products
+UMIYA-MRO,Umiya Buildcon Ltd,consolidated,https://www.screener.in/company/UMIYA-MRO/consolidated/,False,5,,,Telecommunication > Telecommunication > Telecom -  Equipment & Accessories
+UNIMECH,Unimech Aerospace and Manufacturing Ltd,consolidated,https://www.screener.in/company/UNIMECH/consolidated/,False,5,,,Industrials > Capital Goods > Aerospace & Defense
+UNITDSPR,United Spirits Ltd,consolidated,https://www.screener.in/company/UNITDSPR/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Beverages
+UNITECH,Unitech Ltd,consolidated,https://www.screener.in/company/UNITECH/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+UNIVCABLES,Universal Cables Ltd,consolidated,https://www.screener.in/company/UNIVCABLES/consolidated/,False,10,,,Industrials > Capital Goods > Industrial Products
+UNOMINDA,Uno Minda Ltd,consolidated,https://www.screener.in/company/UNOMINDA/consolidated/,False,12,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+UPL,UPL Ltd,consolidated,https://www.screener.in/company/UPL/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+URBANCO,Urban Company Ltd,consolidated,https://www.screener.in/company/URBANCO/consolidated/,False,7,,,Consumer Discretionary > Consumer Services > Retailing
+USHAMART,Usha Martin Ltd,consolidated,https://www.screener.in/company/USHAMART/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+UTLSOLAR,Fujiyama Power Systems Ltd,consolidated,https://www.screener.in/company/UTLSOLAR/consolidated/,False,3,,,Industrials > Capital Goods > Electrical Equipment
+UTTAMSUGAR,Uttam Sugar Mills Ltd,consolidated,https://www.screener.in/company/UTTAMSUGAR/consolidated/,False,3,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+V2RETAIL,V2 Retail Ltd,consolidated,https://www.screener.in/company/V2RETAIL/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Retailing
+VAIBHAVGBL,Vaibhav Global Ltd,consolidated,https://www.screener.in/company/VAIBHAVGBL/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+VAKRANGEE,Vakrangee Ltd,consolidated,https://www.screener.in/company/VAKRANGEE/consolidated/,False,12,,,Information Technology > Information Technology > IT - Services
+VAML,Vedanta Aluminium Metal Ltd,consolidated,https://www.screener.in/company/VAML/consolidated/,False,1,,,Commodities > Metals & Mining > Non - Ferrous Metals
+VARDHACRLC,Vardhman Acrylics Ltd,standalone,https://www.screener.in/company/VARDHACRLC/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+VARDMNPOLY,Vardhman Polytex Ltd,consolidated,https://www.screener.in/company/VARDMNPOLY/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+VASCONEQ,Vascon Engineers Ltd,consolidated,https://www.screener.in/company/VASCONEQ/consolidated/,False,12,,,Consumer Discretionary > Realty > Realty
+VBL,Varun Beverages Ltd,consolidated,https://www.screener.in/company/VBL/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Beverages
+VEDL,Vedanta Ltd,consolidated,https://www.screener.in/company/VEDL/consolidated/,False,12,,,Commodities > Metals & Mining > Diversified Metals
+VEDPOWER,Vedanta Power Ltd,consolidated,https://www.screener.in/company/VEDPOWER/consolidated/,False,1,,,Utilities > Power > Power
+VESUVIUS,Vesuvius India Ltd,standalone,https://www.screener.in/company/VESUVIUS/,False,12,,,Industrials > Capital Goods > Industrial Products
+VGL,Varvee Global Ltd,consolidated,https://www.screener.in/company/VGL/consolidated/,False,4,,,Consumer Discretionary > Textiles > Textiles & Apparels
+VGUARD,V-Guard Industries Ltd,consolidated,https://www.screener.in/company/VGUARD/consolidated/,False,10,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+VIDEOIND,Videocon Industries Ltd,consolidated,https://www.screener.in/company/VIDEOIND/consolidated/,False,16,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+VIJAYA,Vijaya Diagnostic Centre Ltd,consolidated,https://www.screener.in/company/VIJAYA/consolidated/,False,9,,,Healthcare > Healthcare > Healthcare Services
+VIKASECO,Vikas Ecotech Ltd,consolidated,https://www.screener.in/company/VIKASECO/consolidated/,False,9,,,Commodities > Chemicals > Chemicals & Petrochemicals
+VIKRAMSOLR,Vikram Solar Ltd,consolidated,https://www.screener.in/company/VIKRAMSOLR/consolidated/,False,7,,,Industrials > Capital Goods > Electrical Equipment
+VIMTALABS,Vimta Labs Ltd,consolidated,https://www.screener.in/company/VIMTALABS/consolidated/,False,5,,,Healthcare > Healthcare > Healthcare Services
+VINATIORGA,Vinati Organics Ltd,consolidated,https://www.screener.in/company/VINATIORGA/consolidated/,False,7,,,Commodities > Chemicals > Chemicals & Petrochemicals
+VIPIND,V I P Industries Ltd,consolidated,https://www.screener.in/company/VIPIND/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+VISL,Vedanta Iron & Steel Ltd,consolidated,https://www.screener.in/company/VISL/consolidated/,False,1,,,Commodities > Metals & Mining > Ferrous Metals
+VIVIDHA,Visagar Polytex Ltd,standalone,https://www.screener.in/company/VIVIDHA/,False,13,,,Consumer Discretionary > Textiles > Textiles & Apparels
+VIYASH,Viyash Scientific Ltd,consolidated,https://www.screener.in/company/VIYASH/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+VLSFINANCE,VLS Finance Ltd,consolidated,https://www.screener.in/company/VLSFINANCE/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+VMART,V-Mart Retail Ltd,standalone,https://www.screener.in/company/VMART/,False,12,,,Consumer Discretionary > Consumer Services > Retailing
+VMM,Vishal Mega Mart Ltd,consolidated,https://www.screener.in/company/VMM/consolidated/,False,7,,,Consumer Discretionary > Consumer Services > Retailing
+VOGL,Vedanta Oil and Gas Ltd,consolidated,https://www.screener.in/company/VOGL/consolidated/,False,1,,,"Energy > Oil, Gas & Consumable Fuels > Oil"
+VOLTAMP,Voltamp Transformers Ltd,standalone,https://www.screener.in/company/VOLTAMP/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+VOLTAS,Voltas Ltd,consolidated,https://www.screener.in/company/VOLTAS/consolidated/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+VSSL,Vardhman Special Steels Ltd,consolidated,https://www.screener.in/company/VSSL/consolidated/,False,2,,,Industrials > Capital Goods > Industrial Products
+VSTTILLERS,VST Tillers Tractors Ltd,consolidated,https://www.screener.in/company/VSTTILLERS/consolidated/,False,4,,,"Industrials > Capital Goods > Agricultural, Commercial & Construction Vehicles"
+VTL,Vardhman Textiles Ltd,consolidated,https://www.screener.in/company/VTL/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+WAAREEENER,Waaree Energies Ltd,consolidated,https://www.screener.in/company/WAAREEENER/consolidated/,False,7,,,Industrials > Capital Goods > Electrical Equipment
+WAAREEINDO,Indosolar Ltd,standalone,https://www.screener.in/company/WAAREEINDO/,False,12,,,Industrials > Capital Goods > Electrical Equipment
+WAAREERTL,Waaree Renewable Technologies Ltd,consolidated,https://www.screener.in/company/WAAREERTL/consolidated/,False,9,,,Industrials > Capital Goods > Electrical Equipment
+WABAG,Va Tech Wabag Ltd,consolidated,https://www.screener.in/company/WABAG/consolidated/,False,12,,,Utilities > Utilities > Other Utilities
+WAKEFIT,Wakefit Innovations Ltd,standalone,https://www.screener.in/company/WAKEFIT/,False,6,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+WANBURY,Wanbury Ltd,consolidated,https://www.screener.in/company/WANBURY/consolidated/,False,14,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+WEBELSOLAR,Websol Energy System Ltd,consolidated,https://www.screener.in/company/WEBELSOLAR/consolidated/,False,2,,,Industrials > Capital Goods > Electrical Equipment
+WELCORP,Welspun Corp Ltd,consolidated,https://www.screener.in/company/WELCORP/consolidated/,False,12,,,Industrials > Capital Goods > Industrial Products
+WELENT,Welspun Enterprises Ltd,consolidated,https://www.screener.in/company/WELENT/consolidated/,False,12,,,Industrials > Construction > Construction
+WELINV,Welspun Investments & Commercials Ltd,consolidated,https://www.screener.in/company/WELINV/consolidated/,False,1,,,Financial Services > Financial Services > Finance
+WELSPUNLIV,Welspun Living Ltd,consolidated,https://www.screener.in/company/WELSPUNLIV/consolidated/,False,12,,,Consumer Discretionary > Textiles > Textiles & Apparels
+WESTLIFE,Westlife Foodworld Ltd,consolidated,https://www.screener.in/company/WESTLIFE/consolidated/,False,12,,,Consumer Discretionary > Consumer Services > Leisure Services
+WEWORK,Wework India Management Ltd,consolidated,https://www.screener.in/company/WEWORK/consolidated/,False,4,,,Services > Services > Commercial Services & Supplies
+WHEELS,Wheels India Ltd,consolidated,https://www.screener.in/company/WHEELS/consolidated/,False,11,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+WHIRLPOOL,Whirlpool of India Ltd,standalone,https://www.screener.in/company/WHIRLPOOL/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+WILLAMAGOR,Williamson Magor & Company Ltd,consolidated,https://www.screener.in/company/WILLAMAGOR/consolidated/,False,12,,,Financial Services > Financial Services > Finance
+WIPRO,Wipro Ltd,consolidated,https://www.screener.in/company/WIPRO/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+WOCKPHARMA,Wockhardt Ltd,consolidated,https://www.screener.in/company/WOCKPHARMA/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+XCHANGING,Xchanging Solutions Ltd,consolidated,https://www.screener.in/company/XCHANGING/consolidated/,False,13,,,Information Technology > Information Technology > IT - Software
+YATHARTH,Yatharth Hospital & Trauma Care Services Ltd,consolidated,https://www.screener.in/company/YATHARTH/consolidated/,False,10,,,Healthcare > Healthcare > Healthcare Services
+ZAGGLE,Zaggle Prepaid Ocean Services Ltd,consolidated,https://www.screener.in/company/ZAGGLE/consolidated/,False,4,,,Information Technology > Information Technology > IT - Services
+ZEEL,Zee Entertainment Enterprises Ltd,consolidated,https://www.screener.in/company/ZEEL/consolidated/,False,12,,,"Consumer Discretionary > Media, Entertainment & Publication > Entertainment"
+ZENITHEXPO,Zenith Exports Ltd,standalone,https://www.screener.in/company/ZENITHEXPO/,False,12,,,Consumer Discretionary > Consumer Durables > Consumer Durables
+ZENSARTECH,Zensar Technologies Ltd,consolidated,https://www.screener.in/company/ZENSARTECH/consolidated/,False,12,,,Information Technology > Information Technology > IT - Software
+ZENTEC,Zen Technologies Ltd,consolidated,https://www.screener.in/company/ZENTEC/consolidated/,False,12,,,Industrials > Capital Goods > Aerospace & Defense
+ZFCVINDIA,ZF Commercial Vehicle Control System India Ltd,consolidated,https://www.screener.in/company/ZFCVINDIA/consolidated/,False,5,,,Consumer Discretionary > Automobile and Auto Components > Auto Components
+ZUARI,Zuari Agro Chemicals Ltd,consolidated,https://www.screener.in/company/ZUARI/consolidated/,False,12,,,Commodities > Chemicals > Fertilizers & Agrochemicals
+ZUARIIND,Zuari Industries Ltd,consolidated,https://www.screener.in/company/ZUARIIND/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Agricultural Food & other Products
+ZYDUSLIFE,Zydus Lifesciences Ltd,consolidated,https://www.screener.in/company/ZYDUSLIFE/consolidated/,False,12,,,Healthcare > Healthcare > Pharmaceuticals & Biotechnology
+ZYDUSWELL,Zydus Wellness Ltd,consolidated,https://www.screener.in/company/ZYDUSWELL/consolidated/,False,12,,,Fast Moving Consumer Goods > Fast Moving Consumer Goods > Food Products

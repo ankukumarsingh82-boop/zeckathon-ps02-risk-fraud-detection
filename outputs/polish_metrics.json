@@ -1,0 +1,74 @@
+{
+  "split": "train=1-3year files, val=4year, holdout=5year",
+  "dropped_dupes": {
+    "val": 0,
+    "holdout": 0
+  },
+  "n": {
+    "train": 27703,
+    "val": 9792,
+    "holdout": 5910
+  },
+  "pos_rate": {
+    "train": 0.042089304407464896,
+    "val": 0.052593954248366014,
+    "holdout": 0.06937394247038917
+  },
+  "pos": {
+    "train": 1166,
+    "val": 515,
+    "holdout": 410
+  },
+  "selected_model": "lightgbm_monotone",
+  "val_pr_auc": {
+    "transfer": {
+      "logistic": 0.14849686298432252,
+      "lightgbm_monotone": 0.23630866380287383
+    },
+    "full64": {
+      "logistic": 0.16233773572917964,
+      "lightgbm_monotone": 0.5786809573042097
+    }
+  },
+  "holdout": {
+    "pr_auc_transfer_selected": 0.36858494346567516,
+    "roc_auc_transfer_selected": 0.8230379157427938,
+    "pr_auc_transfer_logistic": 0.3094338784624923,
+    "pr_auc_transfer_lgbm": 0.36858494346567516,
+    "pr_auc_full64_lgbm": 0.6521425545110079,
+    "pr_auc_full64_logistic": 0.3063945891301404,
+    "no_skill_pr_auc": 0.06937394247038917,
+    "pr_auc_altman_z2_standalone": 0.26621069719531637,
+    "roc_auc_altman_z2_standalone": 0.7626527716186252,
+    "recall_altman_z2_distress_zone": 0.6487804878048781,
+    "share_flagged_altman_z2_distress_zone": 0.24196277495769883,
+    "brier_calibrated": 0.05466342638840925,
+    "recall_at_5pct_alert": 0.34146341463414637,
+    "precision_at_5pct_alert": 0.41055718475073316
+  },
+  "threshold": {
+    "bayes_formula": "flag if PD >= C_FP/(C_FP+C_FN) = 1/(1+20) = 0.0476",
+    "t_bayes": 0.047619047619047616,
+    "t_val_cost_optimal": 0.04
+  },
+  "secondary_within_5year_split": {
+    "n_test": 1773,
+    "pos_rate": 0.06937394247038917,
+    "pr_auc_lgbm": 0.5584883366109872,
+    "pr_auc_logistic": 0.39187803087574574
+  },
+  "native_nan_benchmark_pr_auc": {
+    "transfer": {
+      "val": 0.4403760750451368,
+      "holdout": 0.5605039104287682
+    },
+    "full64": {
+      "val": 0.7542223411309154,
+      "holdout": 0.822587729317577
+    }
+  },
+  "pr_auc_by_horizon": {
+    "2y (val, 4year file)": 0.23630866380287383,
+    "1y (holdout, 5year file)": 0.36858494346567516
+  }
+}

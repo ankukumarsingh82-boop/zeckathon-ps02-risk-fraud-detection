@@ -1,0 +1,833 @@
+<html><head><meta charset='utf-8'><title>PS02 EWS dashboard</title><style>@page{size:A4;margin:1.1cm} body{font-family:DejaVu Sans,Arial;font-size:8.6pt} table{border-collapse:collapse;font-size:6.4pt;margin:4px 0} td,th{border:1px solid #bbb;padding:1px 3px;word-break:break-word} img{max-width:88%} h1{font-size:14pt} h2{font-size:11.5pt;border-bottom:1px solid #999;margin:8px 0 3px} h3{font-size:10pt;margin:6px 0 2px} p,li{margin:2px 0} body{font-size:10pt}</style></head><body>
+<h1>PS02 Early-Warning dashboard (static snapshot)</h1><p>Interactive app: <code>make app</code>. Quarter 2026-09-30: 930 borrowers monitored, 40 alerts (cap 40).</p>
+<h2>Recall at the capped 5% alert rate</h2><table>
+<thead>
+<tr>
+<th>variant</th>
+<th>recall@4Q all [95% CI]</th>
+<th>recall@4Q evaluable</th>
+<th>recall@8Q all</th>
+<th>recall@8Q evaluable</th>
+<th>flag in [-8Q,-4Q]</th>
+<th>peer flag rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Polish-trained model only</td>
+<td>0/15 [0.00-0.22]</td>
+<td>0/14 [0.00-0.23]</td>
+<td>0/15 [0.00-0.22]</td>
+<td>0/12 [0.00-0.27]</td>
+<td>0/15</td>
+<td>1.1%</td>
+</tr>
+<tr>
+<td>+ forensic overlay (Z'', F, M)</td>
+<td>1/15 [0.00-0.32]</td>
+<td>1/14 [0.00-0.34]</td>
+<td>0/15 [0.00-0.22]</td>
+<td>0/12 [0.00-0.27]</td>
+<td>1/15</td>
+<td>1.5%</td>
+</tr>
+<tr>
+<td><strong>Full composite (headline)</strong></td>
+<td>1/15 [0.00-0.32]</td>
+<td>1/14 [0.00-0.34]</td>
+<td>0/15 [0.00-0.22]</td>
+<td>0/12 [0.00-0.27]</td>
+<td>1/15</td>
+<td>1.1%</td>
+</tr>
+<tr>
+<td>Post-hoc + ICR/Debt-EBITDA rules (in-sample)</td>
+<td>1/15 [0.00-0.32]</td>
+<td>1/14 [0.00-0.34]</td>
+<td>0/15 [0.00-0.22]</td>
+<td>0/12 [0.00-0.27]</td>
+<td>1/15</td>
+<td>0.9%</td>
+</tr>
+</tbody>
+</table>
+<p>Polish holdout PR-AUC 0.369 (no-skill 0.069); Bayes threshold PD &ge; 1/21 = 0.0476.</p>
+<h2>Watch-list (top 40 by score; flagged = within cap)</h2><table>
+<thead>
+<tr>
+<th>rank</th>
+<th>company</th>
+<th>slug</th>
+<th>score_full</th>
+<th>flag_score_full</th>
+<th>Z2</th>
+<th>F_score</th>
+<th>M_score</th>
+<th>action</th>
+<th>driver_1</th>
+<th>driver_2</th>
+<th>driver_3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>GSS Infotech Ltd</td>
+<td>GSS</td>
+<td>0.430</td>
+<td>True</td>
+<td>4.074</td>
+<td>3.000</td>
+<td>-1.560</td>
+<td>ESCALATE: senior credit review within 2 weeks</td>
+<td>Receivable days is unusual at 248.86 (98th percentile of monitored borrowers); this raises the distress score</td>
+<td>Share price fell 59% over 12 months: the market is pricing serious stress</td>
+<td>Asset turnover (sales / total assets) is low at 0.18 (worse than 92% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Hexa Tradex Ltd</td>
+<td>HEXATRADEX</td>
+<td>0.130</td>
+<td>True</td>
+<td>8.829</td>
+<td>4.000</td>
+<td>-2.543</td>
+<td>ESCALATE: senior credit review within 2 weeks</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.00 (worse than 100% of monitored borrowers); this raises the distress score</td>
+<td>Asset turnover (sales / total assets) is low at 0.00 (worse than 99% of monitored borrowers); this raises the distress score</td>
+<td>Sales / fixed assets is unusual at 270.00 (100th percentile of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Asian Hotels (East) Ltd</td>
+<td>AHLEAST</td>
+<td>-0.360</td>
+<td>True</td>
+<td>-1.622</td>
+<td>5.000</td>
+<td>0.149</td>
+<td>ESCALATE: senior credit review within 2 weeks</td>
+<td>Asset turnover (sales / total assets) is low at 0.17 (worse than 92% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.10 (worse than 97% of monitored borrowers); this raises the distress score</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.30 (worse than 95% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>4</td>
+<td>TECIL Chemical &amp; Hydro Power Ltd</td>
+<td>TECILCHEM</td>
+<td>-0.430</td>
+<td>True</td>
+<td>-16.843</td>
+<td></td>
+<td></td>
+<td>ESCALATE: senior credit review within 2 weeks</td>
+<td>Asset turnover (sales / total assets) is low at 0.00 (worse than 100% of monitored borrowers); this raises the distress score</td>
+<td>Share price fell 54% over 12 months: the market is pricing serious stress</td>
+<td>Sales growth (sales / prior-year sales): not reported in the filings (imputed with the training median) - verify manually</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Mangalam Drugs and Organics Ltd</td>
+<td>MANGALAM</td>
+<td>-0.500</td>
+<td>True</td>
+<td>-0.085</td>
+<td>3.000</td>
+<td>-2.327</td>
+<td>ESCALATE: senior credit review within 2 weeks</td>
+<td>Share price fell 56% over 12 months: the market is pricing serious stress</td>
+<td>Asset turnover (sales / total assets) is low at 0.74 (worse than 52% of monitored borrowers); this raises the distress score</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.27 (worse than 96% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Sobha Ltd</td>
+<td>SOBHA</td>
+<td>-0.640</td>
+<td>True</td>
+<td>2.575</td>
+<td>7.000</td>
+<td>-2.161</td>
+<td>ESCALATE: senior credit review within 2 weeks</td>
+<td>Asset turnover (sales / total assets) is low at 0.27 (worse than 88% of monitored borrowers); this raises the distress score</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.38 (worse than 92% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at 0.02 (worse than 91% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Blue Coast Hotels Ltd</td>
+<td>BLUECOAST</td>
+<td>-0.850</td>
+<td>True</td>
+<td>-36.963</td>
+<td>4.000</td>
+<td></td>
+<td>ESCALATE: senior credit review within 2 weeks</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.12 (worse than 99% of monitored borrowers); this raises the distress score</td>
+<td>Share price fell 67% over 12 months: the market is pricing serious stress</td>
+<td>Asset turnover (sales / total assets) is low at 0.30 (worse than 86% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Vedanta Iron &amp; Steel Ltd</td>
+<td>VISL</td>
+<td>-0.880</td>
+<td>True</td>
+<td>-6.477</td>
+<td></td>
+<td></td>
+<td>ESCALATE: senior credit review within 2 weeks</td>
+<td>Asset turnover (sales / total assets) is low at 0.70 (worse than 55% of monitored borrowers); this raises the distress score</td>
+<td>Sales growth (sales / prior-year sales): not reported in the filings (imputed with the training median) - verify manually</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.08 (worse than 96% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>9</td>
+<td>TRF Ltd</td>
+<td>TRF</td>
+<td>-0.980</td>
+<td>True</td>
+<td>-4.317</td>
+<td>2.000</td>
+<td>1.015</td>
+<td>ESCALATE: senior credit review within 2 weeks</td>
+<td>Asset turnover (sales / total assets) is low at 0.24 (worse than 89% of monitored borrowers); this raises the distress score</td>
+<td>Piotroski F-score only 2/9: profitability, cash flow, leverage and efficiency are mostly deteriorating</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.00 (worse than 93% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Vardhman Polytex Ltd</td>
+<td>VARDMNPOLY</td>
+<td>-0.980</td>
+<td>True</td>
+<td>-14.170</td>
+<td>8.000</td>
+<td>-3.061</td>
+<td>ESCALATE: senior credit review within 2 weeks</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.16 (worse than 98% of monitored borrowers); this raises the distress score</td>
+<td>Latest audited accounts are 54 months old (FY Mar 2022): annual results appear delayed - a classic pre-default red flag</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.00 (worse than 93% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Ambica Agarbathies Aroma &amp; Industries Ltd</td>
+<td>AMBICAAGAR</td>
+<td>-1.000</td>
+<td>True</td>
+<td>1.860</td>
+<td>6.000</td>
+<td></td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Sales growth (sales / prior-year sales): not reported in the filings (imputed with the training median) - verify manually</td>
+<td>Latest audited accounts are 126 months old (FY Mar 2016): annual results appear delayed - a classic pre-default red flag</td>
+<td>(Net profit + depreciation) / total liabilities is low at 0.06 (worse than 85% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Suven Life Sciences Ltd</td>
+<td>SUVEN</td>
+<td>-1.200</td>
+<td>True</td>
+<td>22.474</td>
+<td>3.000</td>
+<td>-0.850</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.01 (worse than 99% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at -8.18 (worse than 100% of monitored borrowers); this raises the distress score</td>
+<td>(Pre-tax profit + depreciation) / total liabilities (debt-service capacity) is low at -8.18 (worse than 100% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Omaxe Ltd</td>
+<td>OMAXE</td>
+<td>-1.260</td>
+<td>True</td>
+<td>-0.444</td>
+<td>5.000</td>
+<td>-3.259</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.25 (worse than 97% of monitored borrowers); this raises the distress score</td>
+<td>Asset turnover (sales / total assets) is low at 0.08 (worse than 96% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.04 (worse than 95% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>14</td>
+<td>DCW Ltd</td>
+<td>DCW</td>
+<td>-1.300</td>
+<td>True</td>
+<td>0.504</td>
+<td>3.000</td>
+<td>-2.498</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.68 (worse than 56% of monitored borrowers); this raises the distress score</td>
+<td>Latest audited accounts are 138 months old (FY Mar 2015): annual results appear delayed - a classic pre-default red flag</td>
+<td>(Net profit + depreciation) / total liabilities is low at 0.04 (worse than 89% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Shyam Telecom Ltd</td>
+<td>SHYAMTEL</td>
+<td>-1.310</td>
+<td>True</td>
+<td>-0.906</td>
+<td>2.000</td>
+<td>1.443</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Piotroski F-score only 2/9: profitability, cash flow, leverage and efficiency are mostly deteriorating</td>
+<td>Latest audited accounts are 138 months old (FY Mar 2015): annual results appear delayed - a classic pre-default red flag</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.16 (worse than 98% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Network 18 Media &amp; Investments Ltd</td>
+<td>NETWORK18</td>
+<td>-1.390</td>
+<td>True</td>
+<td>1.009</td>
+<td>5.000</td>
+<td>-0.586</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.24 (worse than 89% of monitored borrowers); this raises the distress score</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.29 (worse than 95% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at 0.07 (worse than 82% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Puravankara Ltd</td>
+<td>PURVA</td>
+<td>-1.410</td>
+<td>True</td>
+<td>1.104</td>
+<td>6.000</td>
+<td>-1.510</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.22 (worse than 90% of monitored borrowers); this raises the distress score</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.31 (worse than 95% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at 0.01 (worse than 93% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Aditya Birla Money Ltd</td>
+<td>BIRLAMONEY</td>
+<td>-1.420</td>
+<td>True</td>
+<td>0.905</td>
+<td>6.000</td>
+<td>2.731</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.31 (worse than 86% of monitored borrowers); this raises the distress score</td>
+<td>Latest audited accounts are 102 months old (FY Mar 2018): annual results appear delayed - a classic pre-default red flag</td>
+<td>(Net profit + depreciation) / total liabilities is low at 0.02 (worse than 91% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Sterling &amp; Wilson Renewable Energy Ltd</td>
+<td>SWSOLAR</td>
+<td>-1.460</td>
+<td>True</td>
+<td>1.796</td>
+<td>2.000</td>
+<td>-2.080</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Sales / fixed assets is unusual at 184.10 (100th percentile of monitored borrowers); this raises the distress score</td>
+<td>Piotroski F-score only 2/9: profitability, cash flow, leverage and efficiency are mostly deteriorating</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.06 (worse than 95% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Elgi Rubber Company Ltd</td>
+<td>ELGIRUBCO</td>
+<td>-1.470</td>
+<td>True</td>
+<td>-2.480</td>
+<td>3.000</td>
+<td>-5.012</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.62 (worse than 100% of monitored borrowers); this raises the distress score</td>
+<td>Asset turnover (sales / total assets) is low at 0.84 (worse than 43% of monitored borrowers); this raises the distress score</td>
+<td>(Pre-tax profit + depreciation) / sales is low at -0.61 (worse than 98% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Emami Realty Ltd</td>
+<td>EMAMIREAL</td>
+<td>-1.490</td>
+<td>True</td>
+<td>0.133</td>
+<td>2.000</td>
+<td>-3.500</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.04 (worse than 97% of monitored borrowers); this raises the distress score</td>
+<td>Piotroski F-score only 2/9: profitability, cash flow, leverage and efficiency are mostly deteriorating</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.07 (worse than 96% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>22</td>
+<td>GTL Ltd</td>
+<td>GTL</td>
+<td>-1.490</td>
+<td>True</td>
+<td>-369.523</td>
+<td>7.000</td>
+<td>-2.746</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.01 (worse than 100% of monitored borrowers); this raises the distress score</td>
+<td>Latest audited accounts are 66 months old (FY Mar 2021): annual results appear delayed - a classic pre-default red flag</td>
+<td>(Net profit + depreciation) / total liabilities is low at 0.01 (worse than 92% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Radaan Mediaworks (I) Ltd</td>
+<td>RADAAN</td>
+<td>-1.540</td>
+<td>True</td>
+<td>-26.172</td>
+<td>3.000</td>
+<td>1.935</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.32 (worse than 94% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.20 (worse than 98% of monitored borrowers); this raises the distress score</td>
+<td>Asset turnover (sales / total assets) is low at 0.71 (worse than 55% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Urban Company Ltd</td>
+<td>URBANCO</td>
+<td>-1.550</td>
+<td>True</td>
+<td>7.979</td>
+<td>2.000</td>
+<td>-2.462</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.57 (worse than 66% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.33 (worse than 99% of monitored borrowers); this raises the distress score</td>
+<td>Piotroski F-score only 2/9: profitability, cash flow, leverage and efficiency are mostly deteriorating</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Zuari Industries Ltd</td>
+<td>ZUARIIND</td>
+<td>-1.590</td>
+<td>True</td>
+<td>2.395</td>
+<td>7.000</td>
+<td>-2.672</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.15 (worse than 93% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at 0.04 (worse than 89% of monitored borrowers); this raises the distress score</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.39 (worse than 92% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Swiggy Ltd</td>
+<td>SWIGGY</td>
+<td>-1.610</td>
+<td>True</td>
+<td>6.701</td>
+<td>5.000</td>
+<td>-1.930</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.42 (worse than 99% of monitored borrowers); this raises the distress score</td>
+<td>Share price fell 37% over 12 months</td>
+<td>Asset turnover (sales / total assets) is low at 0.91 (worse than 36% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Shree Renuka Sugars Ltd</td>
+<td>RENUKA</td>
+<td>-1.610</td>
+<td>True</td>
+<td>-4.714</td>
+<td>2.000</td>
+<td>-3.132</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.10 (worse than 99% of monitored borrowers); this raises the distress score</td>
+<td>Piotroski F-score only 2/9: profitability, cash flow, leverage and efficiency are mostly deteriorating</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.05 (worse than 95% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Kolte Patil Developers Ltd</td>
+<td>KOLTEPATIL</td>
+<td>-1.630</td>
+<td>True</td>
+<td>1.122</td>
+<td>4.000</td>
+<td>-0.306</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.10 (worse than 95% of monitored borrowers); this raises the distress score</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.24 (worse than 97% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.00 (worse than 94% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Physicswallah Ltd</td>
+<td>PWL</td>
+<td>-1.630</td>
+<td>True</td>
+<td>3.619</td>
+<td>6.000</td>
+<td>-2.216</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.51 (worse than 71% of monitored borrowers); this raises the distress score</td>
+<td>Receivable turnover (sales / receivables) is unusual at 47.56 (94th percentile of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at 0.10 (worse than 75% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Embassy Developments Ltd</td>
+<td>EMBDL</td>
+<td>-1.650</td>
+<td>True</td>
+<td>4.329</td>
+<td>3.000</td>
+<td>-1.379</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.08 (worse than 96% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.07 (worse than 96% of monitored borrowers); this raises the distress score</td>
+<td>Share price fell 37% over 12 months</td>
+</tr>
+<tr>
+<td>31</td>
+<td>DSJ Keep Learning Ltd</td>
+<td>KEEPLEARN</td>
+<td>-1.710</td>
+<td>True</td>
+<td>-0.693</td>
+<td>4.000</td>
+<td>-4.149</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.58 (worse than 65% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.09 (worse than 97% of monitored borrowers); this raises the distress score</td>
+<td>Share price fell 38% over 12 months</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Meesho Ltd</td>
+<td>MEESHO</td>
+<td>-1.710</td>
+<td>True</td>
+<td>4.434</td>
+<td>2.000</td>
+<td>-0.518</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.37 (worse than 99% of monitored borrowers); this raises the distress score</td>
+<td>Piotroski F-score only 2/9: profitability, cash flow, leverage and efficiency are mostly deteriorating</td>
+<td>Receivable turnover (sales / receivables) is unusual at 2104.33 (100th percentile of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>33</td>
+<td>DigiSpice Technologies Ltd</td>
+<td>DIGISPICE</td>
+<td>-1.740</td>
+<td>True</td>
+<td>2.534</td>
+<td>6.000</td>
+<td>0.872</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.58 (worse than 66% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at 0.05 (worse than 87% of monitored borrowers); this raises the distress score</td>
+<td>Share price fell 40% over 12 months</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Bluestone Jewellery &amp; Lifestyle Ltd</td>
+<td>BLUESTONE</td>
+<td>-1.740</td>
+<td>True</td>
+<td>4.419</td>
+<td>5.000</td>
+<td>-2.233</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.49 (worse than 72% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at 0.07 (worse than 82% of monitored borrowers); this raises the distress score</td>
+<td>Receivable turnover (sales / receivables) is unusual at 304.50 (99th percentile of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Tata Motors Ltd</td>
+<td>TMCV</td>
+<td>-1.750</td>
+<td>True</td>
+<td>-0.008</td>
+<td>5.000</td>
+<td></td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Sales growth (sales / prior-year sales): not reported in the filings (imputed with the training median) - verify manually</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.47 (worse than 88% of monitored borrowers); this raises the distress score</td>
+<td>Altman Z'' -0.01 is in the distress zone (&lt;1.1): thin working capital, low retained earnings and/or weak EBIT relative to liabilities</td>
+</tr>
+<tr>
+<td>36</td>
+<td>NRB Industrial Bearings Ltd</td>
+<td>NIBL</td>
+<td>-1.780</td>
+<td>True</td>
+<td>-6.757</td>
+<td>4.000</td>
+<td>-3.343</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.63 (worse than 61% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.08 (worse than 96% of monitored borrowers); this raises the distress score</td>
+<td>Quick ratio ((current assets - inventory) / short-term liabilities) is low at 0.36 (worse than 93% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Mahindra Holidays &amp; Resorts India Ltd</td>
+<td>MHRIL</td>
+<td>-1.810</td>
+<td>True</td>
+<td>-1.261</td>
+<td>5.000</td>
+<td>-2.651</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.27 (worse than 88% of monitored borrowers); this raises the distress score</td>
+<td>Share price fell 42% over 12 months</td>
+<td>(Net profit + depreciation) / total liabilities is low at 0.05 (worse than 88% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>38</td>
+<td>PNC Media and Entertainment Ltd</td>
+<td>PNC</td>
+<td>-1.810</td>
+<td>True</td>
+<td>12.331</td>
+<td>5.000</td>
+<td>5.446</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>(Net profit + depreciation) / total liabilities is low at -1.30 (worse than 100% of monitored borrowers); this raises the distress score</td>
+<td>Asset turnover (sales / total assets) is low at 0.54 (worse than 68% of monitored borrowers); this raises the distress score</td>
+<td>(Pre-tax profit + depreciation) / total liabilities (debt-service capacity) is low at -1.80 (worse than 100% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Ather Energy Ltd</td>
+<td>ATHERENERG</td>
+<td>-1.820</td>
+<td>True</td>
+<td>4.769</td>
+<td>6.000</td>
+<td>-1.775</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.16 (worse than 98% of monitored borrowers); this raises the distress score</td>
+<td>Sales growth (sales / prior-year sales) is unusual at 1.63 (95th percentile of monitored borrowers); this raises the distress score</td>
+<td>Asset turnover (sales / total assets) is low at 0.78 (worse than 48% of monitored borrowers); this raises the distress score</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Astec Lifesciences Ltd</td>
+<td>ASTEC</td>
+<td>-1.820</td>
+<td>True</td>
+<td>1.423</td>
+<td>4.000</td>
+<td>-2.227</td>
+<td>REVIEW: analyst deep-dive this quarter</td>
+<td>Asset turnover (sales / total assets) is low at 0.48 (worse than 73% of monitored borrowers); this raises the distress score</td>
+<td>(Net profit + depreciation) / total liabilities is low at -0.07 (worse than 95% of monitored borrowers); this raises the distress score</td>
+<td>(Pre-tax profit + depreciation) / sales is low at -0.08 (worse than 95% of monitored borrowers); this raises the distress score</td>
+</tr>
+</tbody>
+</table>
+<h2>Cases</h2><table>
+<thead>
+<tr>
+<th>slug</th>
+<th>event_date</th>
+<th>q_4Q</th>
+<th>fy_used_4Q</th>
+<th>rank@4Q</th>
+<th>flag 4Q</th>
+<th>rank@8Q</th>
+<th>flag 8Q</th>
+<th>first flag (Q before event)</th>
+<th>rank@4Q large-cap book</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ROLTA</td>
+<td>2016-05-16T00:00:00.000</td>
+<td>2015-03-31T00:00:00.000</td>
+<td>Mar 2014</td>
+<td>n/e</td>
+<td>False</td>
+<td>no data</td>
+<td></td>
+<td></td>
+<td>n/e</td>
+</tr>
+<tr>
+<td>RCOM</td>
+<td>2017-05-30T00:00:00.000</td>
+<td>2016-03-31T00:00:00.000</td>
+<td>Mar 2015</td>
+<td>360/685 (cap 34)</td>
+<td>False</td>
+<td>no data</td>
+<td></td>
+<td></td>
+<td>222/436</td>
+</tr>
+<tr>
+<td>MBECL</td>
+<td>2018-03-13T00:00:00.000</td>
+<td>2016-12-31T00:00:00.000</td>
+<td>Mar 2016</td>
+<td>52/716 (cap 35)</td>
+<td>False</td>
+<td>122/685</td>
+<td>False</td>
+<td></td>
+<td>27/457</td>
+</tr>
+<tr>
+<td>VIDEOIND</td>
+<td>2018-06-06T00:00:00.000</td>
+<td>2017-03-31T00:00:00.000</td>
+<td>Dec 2015</td>
+<td>69/716 (cap 35)</td>
+<td>False</td>
+<td>379/685</td>
+<td>False</td>
+<td>4.000</td>
+<td>38/457</td>
+</tr>
+<tr>
+<td>PATANJALI</td>
+<td>2017-08-31T00:00:00.000</td>
+<td>2016-06-30T00:00:00.000</td>
+<td>Mar 2015</td>
+<td>343/684 (cap 34)</td>
+<td>False</td>
+<td>n/e</td>
+<td>False</td>
+<td></td>
+<td>210/435</td>
+</tr>
+<tr>
+<td>IL&amp;FSTRANS</td>
+<td>2018-10-01T00:00:00.000</td>
+<td>2017-09-30T00:00:00.000</td>
+<td>Mar 2017</td>
+<td>409/739 (cap 36)</td>
+<td>False</td>
+<td>186/716</td>
+<td>False</td>
+<td></td>
+<td>253/475</td>
+</tr>
+<tr>
+<td>IL&amp;FSENGG</td>
+<td>2018-10-05T00:00:00.000</td>
+<td>2017-09-30T00:00:00.000</td>
+<td>Mar 2017</td>
+<td>136/739 (cap 36)</td>
+<td>False</td>
+<td>207/716</td>
+<td>False</td>
+<td></td>
+<td>72/475</td>
+</tr>
+<tr>
+<td>JETAIRWAYS</td>
+<td>2019-01-02T00:00:00.000</td>
+<td>2017-12-31T00:00:00.000</td>
+<td>Mar 2017</td>
+<td>103/739 (cap 36)</td>
+<td>False</td>
+<td>114/716</td>
+<td>False</td>
+<td></td>
+<td>51/475</td>
+</tr>
+<tr>
+<td>SINTEX</td>
+<td>2019-06-11T00:00:00.000</td>
+<td>2018-03-31T00:00:00.000</td>
+<td>Mar 2017</td>
+<td>223/738 (cap 36)</td>
+<td>False</td>
+<td>616/716</td>
+<td>False</td>
+<td></td>
+<td>126/474</td>
+</tr>
+<tr>
+<td>COX&amp;KINGS</td>
+<td>2019-06-26T00:00:00.000</td>
+<td>2018-03-31T00:00:00.000</td>
+<td>Mar 2017</td>
+<td>200/738 (cap 36)</td>
+<td>False</td>
+<td>317/716</td>
+<td>False</td>
+<td></td>
+<td>109/474</td>
+</tr>
+<tr>
+<td>COFFEEDAY</td>
+<td>2019-09-10T00:00:00.000</td>
+<td>2018-06-30T00:00:00.000</td>
+<td>Mar 2017</td>
+<td>512/737 (cap 36)</td>
+<td>False</td>
+<td>400/715</td>
+<td>False</td>
+<td></td>
+<td>326/473</td>
+</tr>
+<tr>
+<td>RELINFRA</td>
+<td>2020-01-23T00:00:00.000</td>
+<td>2018-12-31T00:00:00.000</td>
+<td>Mar 2018</td>
+<td>96/764 (cap 38)</td>
+<td>False</td>
+<td>116/739</td>
+<td>False</td>
+<td></td>
+<td>42/496</td>
+</tr>
+<tr>
+<td>SIMPLEXINF</td>
+<td>2020-12-10T00:00:00.000</td>
+<td>2019-09-30T00:00:00.000</td>
+<td>Mar 2019</td>
+<td>103/794 (cap 39)</td>
+<td>False</td>
+<td>96/766</td>
+<td>False</td>
+<td></td>
+<td>49/522</td>
+</tr>
+<tr>
+<td>FEL</td>
+<td>2021-01-04T00:00:00.000</td>
+<td>2019-12-31T00:00:00.000</td>
+<td>Mar 2019</td>
+<td>462/794 (cap 39)</td>
+<td>False</td>
+<td>482/764</td>
+<td>False</td>
+<td></td>
+<td>278/522</td>
+</tr>
+<tr>
+<td>FRETAIL</td>
+<td>2021-12-31T00:00:00.000</td>
+<td>2020-12-31T00:00:00.000</td>
+<td>Mar 2020</td>
+<td>2/834 (cap 40)</td>
+<td>True</td>
+<td>70/794</td>
+<td>False</td>
+<td>6.000</td>
+<td>2/558</td>
+</tr>
+</tbody>
+</table><img src='../reports/figures/case_trajectories.png'>
+</body></html>

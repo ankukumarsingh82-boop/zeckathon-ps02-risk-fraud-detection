@@ -1,0 +1,45 @@
+slug,sector_group,matched_to
+CYIENT,IT services,ROLTA
+ZENSARTECH,IT services,ROLTA
+MASTEK,IT services,ROLTA
+BHARTIARTL,Telecom,RCOM
+TATACOMM,Telecom,RCOM
+HFCL,Telecom,RCOM
+THERMAX,EPC / engineering,MBECL;IL&FSENGG;SIMPLEXINF
+KEC,EPC / engineering,MBECL;IL&FSENGG;SIMPLEXINF
+KPIL,EPC / engineering,MBECL;IL&FSENGG;SIMPLEXINF
+AHLUCONT,EPC / engineering,SIMPLEXINF;IL&FSENGG
+NCC,EPC / engineering,SIMPLEXINF;IL&FSENGG
+LT,EPC / engineering,MBECL;SIMPLEXINF
+WHIRLPOOL,Consumer durables,VIDEOIND
+VOLTAS,Consumer durables,VIDEOIND
+BLUESTARCO,Consumer durables,VIDEOIND
+MARICO,Edible oil / FMCG,PATANJALI
+KRBL,Edible oil / FMCG,PATANJALI
+TATACONSUM,Edible oil / FMCG,PATANJALI
+IRB,Roads / infrastructure,IL&FSTRANS
+ASHOKA,Roads / infrastructure,IL&FSTRANS
+PNCINFRA,Roads / infrastructure,IL&FSTRANS
+KNRCON,Roads / infrastructure,IL&FSTRANS
+INDIGO,Airline / transport,JETAIRWAYS
+CONCOR,Airline / transport,JETAIRWAYS
+ARVIND,Textiles,SINTEX
+VTL,Textiles,SINTEX
+TRIDENT,Textiles,SINTEX
+WELSPUNLIV,Textiles,SINTEX
+THOMASCOOK,Travel / hospitality,COX&KINGS
+INDHOTEL,Travel / hospitality,COX&KINGS
+EIHOTEL,Travel / hospitality,COX&KINGS
+CCL,Consumer / food service,COFFEEDAY
+JUBLFOOD,Consumer / food service,COFFEEDAY
+TATAPOWER,Power / infrastructure,RELINFRA
+TORNTPOWER,Power / infrastructure,RELINFRA
+CESC,Power / infrastructure,RELINFRA
+TRENT,Retail,FRETAIL;FEL
+DMART,Retail,FRETAIL;FEL
+VMART,Retail,FRETAIL;FEL
+SHOPERSTOP,Retail,FRETAIL;FEL
+ABFRL,Retail,FRETAIL;FEL
+BAJFINANCE,NBFC (financial track),RELCAPITAL
+MUTHOOTFIN,NBFC (financial track),RELCAPITAL
+SHRIRAMFIN,NBFC (financial track),RELCAPITAL

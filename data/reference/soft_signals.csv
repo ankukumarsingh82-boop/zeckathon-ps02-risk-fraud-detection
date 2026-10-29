@@ -1,0 +1,18 @@
+slug,signal_date,signal_type,description,source_url
+ROLTA,2016-06-20,rating_action,S&P downgrade to D after missed coupon (confirms event),https://www.business-standard.com/article/pti-stories/s-p-downgrades-rolta-credit-rating-to-default-116062000499_1.html
+VIDEOIND,2016-06-08,rating_action,CARE cut bank-facility ratings A to BB+ and suspended for non-cooperation,https://www.careratings.com/upload/CompanyFiles/PR/VIDEOCON%20INDUSTRIES%20LIMITED-06-08-2016.pdf
+IL&FSTRANS,2018-09-10,rating_action,ICRA cut structured NCDs from AA(SO) to BB(SO),https://www.business-standard.com/article/companies/more-trouble-for-il-fs-as-icra-downgrades-rating-for-its-various-units-118091001328_1.html
+IL&FSTRANS,2018-09-18,group_contagion,Parent IL&FS Ltd rated D (Ind-Ra; ICRA/CARE D 2018-09-17),https://www.ilfsindia.com/media/2053/changes-in-revised-credit-rating-18092018.pdf
+IL&FSENGG,2018-09-04,rating_action,CARE cut from BBB- to BB (Negative),https://www.careratings.com/upload/CompanyFiles/PR/IL&FS%20Engineering%20and%20Construction%20Company%20Limited-06-23-2020.pdf
+JETAIRWAYS,2018-05-24,auditor_qualification,Statutory auditors flagged going-concern uncertainty with FY18 Q4 results,https://www.business-standard.com/article/companies/jet-airways-reports-loss-of-rs-10-bn-in-q4-auditors-flag-going-concern-118052400587_1.html
+JETAIRWAYS,2018-05-28,rating_action,ICRA downgrade BBB- to BB+ (sub-investment grade),https://www.icra.in/Rating/ShowRationalReportFilePdf/70346
+JETAIRWAYS,2018-08-09,delayed_results,Q1 FY19 results deferred; audit committee declined to recommend,https://www.thehindu.com/business/Industry/article24646767.ece
+COX&KINGS,2019-06-11,rating_action,CP reaffirmed A1+ (no warning from rating agency - counter-example),https://www.careratings.com/upload/CompanyFiles/PR/Cox%20and%20Kings%20Limited-03-30-2020.pdf
+COFFEEDAY,2019-06-30,promoter_pledge,75.70% of promoter holding (53.93%) pledged; founder personal pledge rose ~38.7% -> ~71% Jun-18 to Jun-19,https://www.businesstoday.in/markets/company-stock/story/cafe-coffee-day-76-equity-owned-by-vg-siddhartha-led-promoter-group-had-been-pledged-215865-2019-07-30
+RELINFRA,2019-06-14,auditor_qualification,FY19 audit report carried a disclaimer on group exposures,https://www.business-standard.com/article/companies/trouble-for-anil-ambani-bsr-resigns-as-rpower-rinfra-s-statutory-auditor-119081100015_1.html
+RELINFRA,2019-08-09,auditor_resignation,BSR & Co resigned as statutory auditor,https://www.rinfra.com/documents/1142822/1189698/LetterToSE_09082019.pdf
+FRETAIL,2020-07-16,promoter_pledge,Promoter encumbrance 74.71% as of Apr 2020 (NSE SAST disclosure filed 2020-07-16),https://nsearchives.nseindia.com/corporate/FRETAIL_16072020200447_Fretail_encum.pdf
+FRETAIL,2020-04-01,rating_action,Fitch cut to B- (April 2020),https://www.careratings.com/upload/CompanyFiles/PR/Future%20Retail%20Limited-10-29-2020.pdf
+FRETAIL,2020-10-29,promoter_pledge,Promoter pledge 70.86% (CARE rationale),https://www.careratings.com/upload/CompanyFiles/PR/Future%20Retail%20Limited-10-29-2020.pdf
+RELCAPITAL,2019-04-26,rating_action,ICRA cut commercial paper rating A2 to A4,https://www.business-standard.com/article/news-ani/icra-downgrades-reliance-capital-to-a4-with-negative-implications-119042700225_1.html
+RELCAPITAL,2019-06-11,auditor_resignation,PwC resigned as statutory auditor,https://www.vistraitcl.com/sites/default/files/Submission%20by%20Reliance%20Capital%20Limited_July%2022%2C%202019_Secured%20Debentures.pdf

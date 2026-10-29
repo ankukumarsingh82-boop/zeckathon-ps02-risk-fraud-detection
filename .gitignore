@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/uci/*.arff
+data/refresh/
+.streamlit/secrets.toml
