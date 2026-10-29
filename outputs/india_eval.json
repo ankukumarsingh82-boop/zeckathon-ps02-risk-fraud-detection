@@ -778,6 +778,136 @@
       "lead_months_earliest": 4.8
     }
   ],
+  "override_evidence": {
+    "cases": [
+      {
+        "slug": "ROLTA",
+        "first_override_trigger": null,
+        "trigger_type": null,
+        "lead_months": null,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "RCOM",
+        "first_override_trigger": null,
+        "trigger_type": null,
+        "lead_months": null,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "MBECL",
+        "first_override_trigger": null,
+        "trigger_type": null,
+        "lead_months": null,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "VIDEOIND",
+        "first_override_trigger": "2016-06-08",
+        "trigger_type": "rating_action",
+        "lead_months": 23.9,
+        "override_ge_4Q": true,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "PATANJALI",
+        "first_override_trigger": null,
+        "trigger_type": null,
+        "lead_months": null,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "IL&FSTRANS",
+        "first_override_trigger": "2018-09-10",
+        "trigger_type": "rating_action",
+        "lead_months": 0.7,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "IL&FSENGG",
+        "first_override_trigger": "2018-09-04",
+        "trigger_type": "rating_action",
+        "lead_months": 1.0,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "JETAIRWAYS",
+        "first_override_trigger": "2018-05-24",
+        "trigger_type": "auditor_qualification",
+        "lead_months": 7.3,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "SINTEX",
+        "first_override_trigger": null,
+        "trigger_type": null,
+        "lead_months": null,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "COX&KINGS",
+        "first_override_trigger": null,
+        "trigger_type": null,
+        "lead_months": null,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "COFFEEDAY",
+        "first_override_trigger": "2019-06-30",
+        "trigger_type": "promoter_pledge",
+        "lead_months": 2.4,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "RELINFRA",
+        "first_override_trigger": "2019-06-14",
+        "trigger_type": "auditor_qualification",
+        "lead_months": 7.3,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "SIMPLEXINF",
+        "first_override_trigger": null,
+        "trigger_type": null,
+        "lead_months": null,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "FEL",
+        "first_override_trigger": null,
+        "trigger_type": null,
+        "lead_months": null,
+        "override_ge_4Q": false,
+        "model_flag_4Q": false
+      },
+      {
+        "slug": "FRETAIL",
+        "first_override_trigger": "2020-04-01",
+        "trigger_type": "rating_action",
+        "lead_months": 21.0,
+        "override_ge_4Q": true,
+        "model_flag_4Q": true
+      }
+    ],
+    "n_core": 15,
+    "n_with_trigger_before_event": 7,
+    "n_trigger_ge_4Q": 2,
+    "n_model_flag_or_override_ge_4Q": 2,
+    "median_lead_months": 7.3,
+    "label": "case evidence, not a backtest metric: soft signals were collected only for defaulters"
+  },
   "alert_cap_check": {
     "max_alerts_any_quarter": 40,
     "max_alert_rate_any_quarter": 0.04993429697766097,

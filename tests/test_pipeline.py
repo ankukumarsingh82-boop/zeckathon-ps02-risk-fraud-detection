@@ -147,3 +147,29 @@ def test_cases_have_sources():
     assert len(pd.read_csv(REF / "peers.csv")) >= 30
     s = pd.read_csv(REF / "soft_signals.csv")
     assert s.source_url.str.startswith("http").all()
+
+# ---------- page 1 of the PDF ----------
+def test_pdf_page1_has_recall_override_and_prauc_explanation(ev):
+    from pypdf import PdfReader
+    p1 = " ".join(PdfReader(str(ROOT / "reports" / "report.pdf")).pages[0].extract_text().split())
+    r = ev["recall"]["score_full_recall_4Q_all_cases"]; r8 = ev["recall"]["score_full_recall_8Q_all_cases"]
+    assert f"{r['hits']}/{r['n']}" in p1 and f"{r8['hits']}/{r8['n']}" in p1
+    oe = ev["override_evidence"]
+    assert "Escalation-override evidence" in p1 and "Lead times" in p1
+    assert f"{oe['n_model_flag_or_override_ge_4Q']}/{oe['n_core']}" in p1
+    for o in oe["cases"]:
+        if o["lead_months"] is not None:
+            assert f"{o['slug']} {o['lead_months']:.1f}" in p1, o["slug"]
+    pm = json.load(open(OUT / "polish_metrics.json"))
+    assert "Why the PR-AUC benchmark fell" in p1
+    assert f"{pm['native_nan_benchmark_pr_auc']['transfer']['holdout']:.3f}" in p1
+    assert f"{pm['holdout']['pr_auc_transfer_selected']:.3f}" in p1
+
+def test_override_evidence_consistent(ev):
+    soft = pd.read_csv(REF / "soft_signals.csv", parse_dates=["signal_date"])
+    cases = pd.read_csv(REF / "cases.csv", parse_dates=["event_date"]).set_index("slug")
+    for o in ev["override_evidence"]["cases"]:
+        if o["first_override_trigger"]:
+            d = pd.Timestamp(o["first_override_trigger"]); e = cases.event_date[o["slug"]]
+            assert d < e and o["override_ge_4Q"] == (d <= e - pd.DateOffset(months=12))
+            assert d in set(soft[soft.slug == o["slug"]].signal_date)

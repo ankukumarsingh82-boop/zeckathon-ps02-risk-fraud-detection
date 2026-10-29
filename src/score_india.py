@@ -279,6 +279,27 @@ def main():
                    "n_at_least_4Q_before": len(pre4), "earliest_signal": str(pre.signal_date.min().date()) if len(pre) else None,
                    "lead_months_earliest": round((c.event_date - pre.signal_date.min()).days / 30.44, 1) if len(pre) else None})
     res["soft_signal_leads"] = sl
+    # Escalation-override evidence (case evidence only: soft signals were researched for defaulters, not for the universe).
+    # Trigger = a signal of an override type (rating cut, auditor qualification/resignation, delayed results, promoter
+    # pledge, group default) dated strictly before the event; rating reaffirmations are not triggers.
+    TRIG = {"rating_action", "auditor_qualification", "auditor_resignation", "delayed_results", "promoter_pledge", "group_contagion"}
+    trig = soft[soft.signal_type.isin(TRIG) & ~soft.description.str.lower().str.contains("reaffirm")]
+    core_cases = cases[cases.track == "core"]; oe = []
+    flag4 = {r["slug"]: bool(r.get("flag_score_full_4Q")) for r in json.loads(cr.to_json(orient="records"))}
+    for _, c in core_cases.iterrows():
+        t = trig[(trig.slug == c.slug) & (trig.signal_date < c.event_date)].sort_values("signal_date")
+        first = t.signal_date.min() if len(t) else None
+        lead = round((c.event_date - first).days / 30.44, 1) if first is not None else None
+        oe.append({"slug": c.slug, "first_override_trigger": str(first.date()) if first is not None else None,
+                   "trigger_type": t.signal_type.iloc[0] if len(t) else None, "lead_months": lead,
+                   "override_ge_4Q": bool(lead is not None and first <= c.event_date - pd.DateOffset(months=12)),
+                   "model_flag_4Q": flag4.get(c.slug, False)})
+    n = len(oe); any_ = sum(o["lead_months"] is not None for o in oe); g4 = sum(o["override_ge_4Q"] for o in oe)
+    union4 = sum(o["override_ge_4Q"] or o["model_flag_4Q"] for o in oe)
+    leads = sorted(o["lead_months"] for o in oe if o["lead_months"] is not None)
+    res["override_evidence"] = {"cases": oe, "n_core": n, "n_with_trigger_before_event": any_, "n_trigger_ge_4Q": g4,
+                                "n_model_flag_or_override_ge_4Q": union4, "median_lead_months": float(np.median(leads)) if leads else None,
+                                "label": "case evidence, not a backtest metric: soft signals were collected only for defaulters"}
     ev_q = qf[qf.eligible & qf.evaluable_quarter].groupby("quarter")
     res["alert_cap_check"] = {"max_alerts_any_quarter": int(ev_q.flag_score_full.sum().max()),
                               "max_alert_rate_any_quarter": float(ev_q.flag_score_full.mean().max()),
